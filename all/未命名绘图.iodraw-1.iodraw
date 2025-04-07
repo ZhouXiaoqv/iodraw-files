@@ -108,6 +108,11 @@
         <mxCell id="_4oigFEWJNO8ayWw1DFl-30" value="个人用户（宠物主人）操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="727" y="656" width="159" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="284" y="1073" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-37" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="227" y="746" width="48" height="90" as="geometry" />
         </mxCell>
@@ -136,7 +141,7 @@
           <mxGeometry x="889" y="746" width="48" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-69" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="239" y="543" width="100" height="100" as="geometry" />
+          <mxGeometry x="552" y="1045" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
