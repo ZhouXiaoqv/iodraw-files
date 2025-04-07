@@ -56,6 +56,9 @@
         <mxCell id="_4oigFEWJNO8ayWw1DFl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="996" y="655" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="997" y="487" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-27" value="个人用户（宠物主人）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_4oigFEWJNO8ayWw1DFl-24">
@@ -81,7 +84,7 @@
           <mxGeometry x="517" y="659" width="100" height="33" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-30" value="管理员操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="940" y="673" width="100" height="33" as="geometry" />
+          <mxGeometry x="946" y="657" width="100" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
