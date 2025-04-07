@@ -111,6 +111,15 @@
         <mxCell id="_4oigFEWJNO8ayWw1DFl-29" value="医师操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="517" y="659" width="100" height="33" as="geometry" />
         </mxCell>
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-30" target="_4oigFEWJNO8ayWw1DFl-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-30" target="_4oigFEWJNO8ayWw1DFl-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-30" target="_4oigFEWJNO8ayWw1DFl-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-30" value="个人用户（宠物主人）操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="924" y="657" width="159" height="36" as="geometry" />
         </mxCell>
