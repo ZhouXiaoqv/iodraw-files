@@ -50,7 +50,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_4oigFEWJNO8ayWw1DFl-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-10">
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.435;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-10" target="_4oigFEWJNO8ayWw1DFl-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="796.2068965517242" y="637.0689655172414" as="targetPoint" />
           </mxGeometry>
@@ -108,7 +108,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-30" value="个人用户（宠物主人）操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="928" y="667" width="159" height="36" as="geometry" />
+          <mxGeometry x="727" y="656" width="159" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-37" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="227" y="746" width="48" height="90" as="geometry" />
