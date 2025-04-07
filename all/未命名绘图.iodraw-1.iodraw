@@ -74,8 +74,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_4oigFEWJNO8ayWw1DFl-28" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="85" y="656" width="100" height="100" as="geometry" />
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-28" value="管理员操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="85" y="657" width="100" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
