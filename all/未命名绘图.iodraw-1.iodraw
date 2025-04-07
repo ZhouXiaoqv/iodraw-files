@@ -108,9 +108,9 @@
         <mxCell id="_4oigFEWJNO8ayWw1DFl-30" value="个人用户（宠物主人）操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="727" y="656" width="159" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="_4oigFEWJNO8ayWw1DFl-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-37">
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="284" y="1073" as="targetPoint" />
+            <mxPoint x="251" y="902" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-37" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
