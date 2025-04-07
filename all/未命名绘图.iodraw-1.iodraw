@@ -129,13 +129,13 @@
           <mxGeometry x="623" y="746" width="48" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-52" value="智&lt;div&gt;慧&lt;/div&gt;&lt;div&gt;诊&lt;/div&gt;&lt;div&gt;断&lt;/div&gt;&lt;div&gt;体&lt;/div&gt;&lt;div&gt;验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="876" y="740" width="48" height="90" as="geometry" />
+          <mxGeometry x="684" y="746" width="48" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-53" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="979.5" y="740" width="48" height="90" as="geometry" />
+          <mxGeometry x="782.5" y="746" width="48" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-54" value="宠&lt;div&gt;物&lt;/div&gt;&lt;div&gt;病&lt;/div&gt;&lt;div&gt;历&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="740" width="48" height="90" as="geometry" />
+          <mxGeometry x="857" y="748" width="48" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
