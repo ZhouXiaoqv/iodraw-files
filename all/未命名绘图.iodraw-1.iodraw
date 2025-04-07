@@ -87,6 +87,11 @@
             <mxPoint x="135" y="739" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="726.0344827586207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-28" value="管理员操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="85" y="657" width="100" height="33" as="geometry" />
         </mxCell>
@@ -101,6 +106,9 @@
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-40" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;监&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="111" y="742" width="48" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-41" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;监&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="185" y="740" width="48" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
