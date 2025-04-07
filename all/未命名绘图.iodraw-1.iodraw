@@ -120,6 +120,11 @@
         <mxCell id="_4oigFEWJNO8ayWw1DFl-45" value="宠&lt;div&gt;物&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="457" y="742" width="48" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="567.0000000000002" y="945.344827586207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-47" value="医&lt;div&gt;学&lt;/div&gt;&lt;div&gt;影&lt;/div&gt;&lt;div&gt;像&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="543" y="742" width="48" height="90" as="geometry" />
         </mxCell>
@@ -161,7 +166,7 @@
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-85" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_4oigFEWJNO8ayWw1DFl-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="567" y="892" as="sourcePoint" />
+            <mxPoint x="567" y="941" as="sourcePoint" />
             <mxPoint x="291" y="876" as="targetPoint" />
           </mxGeometry>
         </mxCell>
