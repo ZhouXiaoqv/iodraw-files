@@ -55,7 +55,7 @@
         <mxCell id="s2BzWd0ywXDydQ81Eu5K-19" value="医学影像管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="258" y="268" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s2BzWd0ywXDydQ81Eu5K-20" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="s2BzWd0ywXDydQ81Eu5K-20" value="宠物管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s2BzWd0ywXDydQ81Eu5K-21" value="智能分析管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
