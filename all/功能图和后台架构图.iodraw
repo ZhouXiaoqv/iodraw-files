@@ -58,6 +58,14 @@
         <mxCell id="s2BzWd0ywXDydQ81Eu5K-20" value="宠物管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XyJODgY8eCoU5Ax5_jOJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2BzWd0ywXDydQ81Eu5K-21" target="s2BzWd0ywXDydQ81Eu5K-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="362" />
+              <mxPoint x="720" y="362" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s2BzWd0ywXDydQ81Eu5K-21" value="系统监控" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -214,12 +222,6 @@
         <mxCell id="s2BzWd0ywXDydQ81Eu5K-56" value="宠&lt;div&gt;物&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;高&lt;/div&gt;&lt;div&gt;级&lt;/div&gt;&lt;div&gt;检&lt;/div&gt;&lt;div&gt;索&lt;/div&gt;" style="rounded=0;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="540" y="390" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="s2BzWd0ywXDydQ81Eu5K-58" value="" style="endArrow=none;html=1;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="679.76" y="360" as="sourcePoint" />
-            <mxPoint x="679.76" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s2BzWd0ywXDydQ81Eu5K-60" value="" style="endArrow=none;html=1;fontSize=12;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="390" as="sourcePoint" />
@@ -229,17 +231,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2BzWd0ywXDydQ81Eu5K-61" value="" style="endArrow=none;html=1;fontSize=12;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="679.76" y="390" as="sourcePoint" />
-            <mxPoint x="679.76" y="360" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="679.76" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s2BzWd0ywXDydQ81Eu5K-63" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;监&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;" style="rounded=0;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="620" y="388" width="40" height="160" as="geometry" />
+          <mxGeometry x="620" y="390" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="s2BzWd0ywXDydQ81Eu5K-64" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;日&lt;/div&gt;&lt;div&gt;志&lt;/div&gt;" style="rounded=0;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="700" y="393" width="40" height="160" as="geometry" />
