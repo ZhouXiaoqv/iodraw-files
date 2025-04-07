@@ -304,14 +304,14 @@
         </mxCell>
         <mxCell id="4O15SUMuVHLULAQrNrtc-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="806" y="356" as="sourcePoint" />
+            <mxPoint x="799" y="356" as="sourcePoint" />
             <mxPoint x="896" y="356" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4O15SUMuVHLULAQrNrtc-6" value="" style="endArrow=none;html=1;fontSize=12;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4O15SUMuVHLULAQrNrtc-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="384" as="sourcePoint" />
-            <mxPoint x="800" y="354" as="targetPoint" />
+            <mxPoint x="800" y="358" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
