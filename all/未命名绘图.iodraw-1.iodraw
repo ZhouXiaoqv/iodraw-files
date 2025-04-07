@@ -116,13 +116,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-30" value="个人用户（宠物主人）操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="924" y="657" width="159" height="36" as="geometry" />
+          <mxGeometry x="928" y="667" width="159" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-37" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="227" y="746" width="48" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-40" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;监&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="306" y="744" width="48" height="90" as="geometry" />
+          <mxGeometry x="306" y="746" width="48" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-41" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;审&lt;/div&gt;&lt;div&gt;计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="380" y="746" width="48" height="90" as="geometry" />
