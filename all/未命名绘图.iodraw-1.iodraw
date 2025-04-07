@@ -35,9 +35,19 @@
             <mxPoint x="131" y="658.1428571428571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-25" value="管理员" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_4oigFEWJNO8ayWw1DFl-22">
+          <mxGeometry x="0.5447" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="652.2413793103449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_4oigFEWJNO8ayWw1DFl-23">
+          <mxGeometry x="-0.2191" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-10">
