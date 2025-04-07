@@ -30,11 +30,16 @@
         <mxCell id="_4oigFEWJNO8ayWw1DFl-7" value="登录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="432" y="182" width="278" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="_4oigFEWJNO8ayWw1DFl-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-10" value="身份校验" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="457" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.999;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-6" target="_4oigFEWJNO8ayWw1DFl-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_4oigFEWJNO8ayWw1DFl-19">
+          <mxGeometry x="0.0634" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
