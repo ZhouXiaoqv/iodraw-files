@@ -98,9 +98,14 @@
             <mxPoint x="479.65517241379325" y="743.2758620689656" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_4oigFEWJNO8ayWw1DFl-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-29">
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-29" target="_4oigFEWJNO8ayWw1DFl-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="567" y="735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645.1724137931037" y="746.0344827586207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-29" value="医师操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
