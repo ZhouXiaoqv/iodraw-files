@@ -120,34 +120,14 @@
         <mxCell id="_4oigFEWJNO8ayWw1DFl-45" value="宠&lt;div&gt;物&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="457" y="742" width="48" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_4oigFEWJNO8ayWw1DFl-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="567" y="900" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-47" value="医&lt;div&gt;学&lt;/div&gt;&lt;div&gt;影&lt;/div&gt;&lt;div&gt;像&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="543" y="742" width="48" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="_4oigFEWJNO8ayWw1DFl-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-50">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="647" y="896" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-50" value="智&lt;div&gt;慧&lt;/div&gt;&lt;div&gt;医&lt;/div&gt;&lt;div&gt;学&lt;/div&gt;&lt;div&gt;诊&lt;/div&gt;&lt;div&gt;断&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="623" y="746" width="48" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_4oigFEWJNO8ayWw1DFl-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-52">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="708" y="895" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-52" value="智&lt;div&gt;慧&lt;/div&gt;&lt;div&gt;诊&lt;/div&gt;&lt;div&gt;断&lt;/div&gt;&lt;div&gt;体&lt;/div&gt;&lt;div&gt;验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="684" y="746" width="48" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="_4oigFEWJNO8ayWw1DFl-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-53">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="806.5" y="890" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-53" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="782.5" y="746" width="48" height="90" as="geometry" />
