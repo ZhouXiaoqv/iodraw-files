@@ -205,7 +205,7 @@
             <mxPoint x="559.76" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2BzWd0ywXDydQ81Eu5K-54" value="用&lt;br&gt;户&lt;br&gt;角&lt;br&gt;色&lt;br&gt;定&lt;br&gt;义" style="rounded=0;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="s2BzWd0ywXDydQ81Eu5K-54" value="宠物" style="rounded=0;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="440" y="390" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="s2BzWd0ywXDydQ81Eu5K-55" value="展&lt;br&gt;示&lt;br&gt;信&lt;br&gt;息&lt;br&gt;管&lt;br&gt;理" style="rounded=0;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;horizontal=1;fontStyle=0;fontSize=12;" parent="1" vertex="1">
