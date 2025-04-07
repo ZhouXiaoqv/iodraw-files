@@ -111,11 +111,6 @@
         <mxCell id="_4oigFEWJNO8ayWw1DFl-29" value="医师操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="517" y="659" width="100" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="_4oigFEWJNO8ayWw1DFl-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="901.7241379310344" y="758.4482758620691" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-30" value="个人用户（宠物主人）操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="924" y="657" width="159" height="33" as="geometry" />
         </mxCell>
@@ -138,7 +133,10 @@
           <mxGeometry x="623" y="746" width="48" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-52" value="智&lt;div&gt;慧&lt;/div&gt;&lt;div&gt;医&lt;/div&gt;&lt;div&gt;学&lt;/div&gt;&lt;div&gt;诊&lt;/div&gt;&lt;div&gt;断&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="879" y="758" width="48" height="90" as="geometry" />
+          <mxGeometry x="876" y="740" width="48" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-53" value="智&lt;div&gt;慧&lt;/div&gt;&lt;div&gt;医&lt;/div&gt;&lt;div&gt;学&lt;/div&gt;&lt;div&gt;诊&lt;/div&gt;&lt;div&gt;断&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="966" y="740" width="48" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
