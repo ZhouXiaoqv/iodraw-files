@@ -7,6 +7,12 @@
         <mxCell id="_4oigFEWJNO8ayWw1DFl-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="520" y="77" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_4oigFEWJNO8ayWw1DFl-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="726" y="634" as="sourcePoint" />
+            <mxPoint x="776" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
