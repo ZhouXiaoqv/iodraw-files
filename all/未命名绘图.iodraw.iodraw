@@ -41,11 +41,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="00j_oEEavoclhN_XABbM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="153" y="646" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-9" value="是否要新增宠物信息？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="546" width="183" height="86" as="geometry" />
         </mxCell>
@@ -65,7 +60,10 @@
           <mxGeometry x="369" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="69" y="657" width="164" height="124" as="geometry" />
+          <mxGeometry x="70" y="621" width="164" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="00j_oEEavoclhN_XABbM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-9" target="00j_oEEavoclhN_XABbM-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
