@@ -112,6 +112,9 @@
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Zi34ks5vTGgtbQFqUTv-38" target="6Zi34ks5vTGgtbQFqUTv-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6Zi34ks5vTGgtbQFqUTv-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Zi34ks5vTGgtbQFqUTv-38" target="6Zi34ks5vTGgtbQFqUTv-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-38" value="查看登录日志和操作日志" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="473.5" width="93" height="37" as="geometry" />
         </mxCell>
@@ -160,6 +163,14 @@
               <mxPoint x="780" y="609" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6Zi34ks5vTGgtbQFqUTv-54" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6Zi34ks5vTGgtbQFqUTv-53">
+          <mxGeometry x="-0.1165" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6Zi34ks5vTGgtbQFqUTv-55" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365.5" y="569" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
