@@ -35,10 +35,10 @@
           <mxGeometry x="381" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cqtaonLfKqtN1UEVWFqQ-9" value="新增/修改用户信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="82" y="430" width="100" height="100" as="geometry" />
+          <mxGeometry x="82" y="430" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="cqtaonLfKqtN1UEVWFqQ-10" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="391" y="425" width="100" height="100" as="geometry" />
+          <mxGeometry x="390" y="427" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="cqtaonLfKqtN1UEVWFqQ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="681" y="428" width="100" height="100" as="geometry" />
