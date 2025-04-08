@@ -85,10 +85,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X2eNoX_vdSSq6KN_XusR-22" value="页面是否成功显示检测后图片？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="312" y="241" width="219" height="50" as="geometry" />
+          <mxGeometry x="295" y="241" width="236" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X2eNoX_vdSSq6KN_XusR-28" value="结束，检测结果自动保存" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="165" y="248.5" width="110" height="63" as="geometry" />
+          <mxGeometry x="152" y="234.5" width="110" height="64.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
