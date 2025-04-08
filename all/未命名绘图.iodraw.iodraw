@@ -10,8 +10,14 @@
         <mxCell id="00j_oEEavoclhN_XABbM-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="379" y="104" width="100" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="00j_oEEavoclhN_XABbM-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="379" y="230" width="100" height="46" as="geometry" />
+        <mxCell id="00j_oEEavoclhN_XABbM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-2" target="00j_oEEavoclhN_XABbM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00j_oEEavoclhN_XABbM-2" value="登录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="379" y="191" width="100" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="00j_oEEavoclhN_XABbM-4" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="389" y="300" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
