@@ -102,9 +102,19 @@
         <mxCell id="00j_oEEavoclhN_XABbM-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-36" target="00j_oEEavoclhN_XABbM-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="00j_oEEavoclhN_XABbM-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="00j_oEEavoclhN_XABbM-40">
+        <mxCell id="00j_oEEavoclhN_XABbM-41" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="00j_oEEavoclhN_XABbM-40">
           <mxGeometry x="-0.3337" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00j_oEEavoclhN_XABbM-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="1152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00j_oEEavoclhN_XABbM-43" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="00j_oEEavoclhN_XABbM-42">
+          <mxGeometry x="-0.2573" y="4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-36" value="是否确认？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
