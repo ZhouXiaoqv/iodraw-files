@@ -19,6 +19,11 @@
         <mxCell id="00j_oEEavoclhN_XABbM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-4" target="00j_oEEavoclhN_XABbM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="00j_oEEavoclhN_XABbM-8" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="00j_oEEavoclhN_XABbM-7">
+          <mxGeometry x="-0.2468" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-4" value="是否是管理员或者动物医师？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="346" y="299" width="166" height="143" as="geometry" />
         </mxCell>
