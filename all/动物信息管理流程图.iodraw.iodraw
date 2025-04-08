@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-9" value="是否要新增宠物信息？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="417" y="366" width="183" height="51" as="geometry" />
+          <mxGeometry x="417" y="346" width="183" height="51" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-11" target="00j_oEEavoclhN_XABbM-13">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +66,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-19" value="是否编辑宠物信息？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="213" y="428" width="164" height="41" as="geometry" />
+          <mxGeometry x="223" y="394" width="164" height="41" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-9" target="00j_oEEavoclhN_XABbM-19">
           <mxGeometry relative="1" as="geometry" />
@@ -91,7 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-28" value="是否删除宠物信息？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="34" y="469" width="151" height="53" as="geometry" />
+          <mxGeometry x="31" y="435" width="151" height="53" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-19" target="00j_oEEavoclhN_XABbM-28">
           <mxGeometry relative="1" as="geometry" />
