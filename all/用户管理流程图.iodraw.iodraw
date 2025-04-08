@@ -33,8 +33,8 @@
         <mxCell id="-KhlYbotFnmIjvD-hq2u-9" value="是否新增角色？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="515" y="80" width="133" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-KhlYbotFnmIjvD-hq2u-11" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="734.5" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="-KhlYbotFnmIjvD-hq2u-11" value="点击新增按钮&lt;div&gt;填入相应信息&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="678" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
