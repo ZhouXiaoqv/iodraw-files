@@ -131,8 +131,14 @@
         <mxCell id="ke4fgQztsoUOG-Mra472-38" value="第三方登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="663" y="133" width="102" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="ke4fgQztsoUOG-Mra472-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ke4fgQztsoUOG-Mra472-39" target="ke4fgQztsoUOG-Mra472-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ke4fgQztsoUOG-Mra472-39" value="调用OATHU服务获取token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="663" y="248" width="102" height="35" as="geometry" />
+          <mxGeometry x="663" y="193.25" width="102" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ke4fgQztsoUOG-Mra472-41" value="校验token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="663" y="308.25" width="102" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
