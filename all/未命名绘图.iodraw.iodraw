@@ -28,7 +28,7 @@
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-6" value="是否要搜索某一用户？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="369" width="172" height="40.75" as="geometry" />
         </mxCell>
-        <mxCell id="6Zi34ks5vTGgtbQFqUTv-8" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6Zi34ks5vTGgtbQFqUTv-8" value="点击搜索框输入搜索关键字" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="480.125" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
