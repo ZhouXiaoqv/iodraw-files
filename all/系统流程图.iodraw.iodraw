@@ -5,13 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_4oigFEWJNO8ayWw1DFl-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="520" y="100" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_4oigFEWJNO8ayWw1DFl-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="569.71" y="137" as="sourcePoint" />
-            <mxPoint x="570.21" y="185" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="520" y="100" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_4oigFEWJNO8ayWw1DFl-6" target="_4oigFEWJNO8ayWw1DFl-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -28,7 +22,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-7" value="登录" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="622" y="182" width="91" height="18" as="geometry" />
+          <mxGeometry x="532" y="178" width="91" height="18" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_4oigFEWJNO8ayWw1DFl-10" edge="1">
           <mxGeometry relative="1" as="geometry">
