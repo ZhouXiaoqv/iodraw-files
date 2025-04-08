@@ -94,7 +94,7 @@
         <mxCell id="_4oigFEWJNO8ayWw1DFl-30" value="个人用户（宠物主人）操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="754" y="368" width="159" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="fviS7DOczVtVqQ9XxukX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-37">
+        <mxCell id="fviS7DOczVtVqQ9XxukX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-37" target="fviS7DOczVtVqQ9XxukX-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1012" y="478" as="targetPoint" />
           </mxGeometry>
@@ -125,6 +125,9 @@
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-54" value="宠&lt;div&gt;物&lt;/div&gt;&lt;div&gt;病&lt;/div&gt;&lt;div&gt;历&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="928" y="433" width="48" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fviS7DOczVtVqQ9XxukX-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1011" y="456.5" width="76" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
