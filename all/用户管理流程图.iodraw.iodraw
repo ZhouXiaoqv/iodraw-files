@@ -38,6 +38,11 @@
         <mxCell id="-KhlYbotFnmIjvD-hq2u-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-KhlYbotFnmIjvD-hq2u-9" target="-KhlYbotFnmIjvD-hq2u-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-KhlYbotFnmIjvD-hq2u-25" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-KhlYbotFnmIjvD-hq2u-24">
+          <mxGeometry x="-0.3471" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-9" value="是否新增角色？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="511" y="67.5" width="133" height="118" as="geometry" />
         </mxCell>
@@ -48,7 +53,7 @@
           <mxGeometry x="680" y="105" width="120" height="43" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-14" value="是否修改角色权限？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="602" y="269" width="151" height="142" as="geometry" />
+          <mxGeometry x="623" y="190" width="151" height="142" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
