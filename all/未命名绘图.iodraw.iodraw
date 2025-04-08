@@ -32,6 +32,9 @@
         <mxCell id="1iXnK0e6ATahuSkQoJBM-29" value="前端静态存储（一级缓存）" style="shape=datastore;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="284" y="248" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1iXnK0e6ATahuSkQoJBM-34" value="Container" style="swimlane;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="651" y="409" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
