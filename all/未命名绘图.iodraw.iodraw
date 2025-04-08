@@ -85,10 +85,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1iXnK0e6ATahuSkQoJBM-65" value="Container" style="swimlane;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="548" y="694" width="200" height="200" as="geometry" />
+          <mxGeometry x="487" y="667" width="261" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="1iXnK0e6ATahuSkQoJBM-69" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1iXnK0e6ATahuSkQoJBM-65">
+          <mxGeometry x="14" y="36" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1iXnK0e6ATahuSkQoJBM-66" value="Redis&lt;br&gt;(三级缓存)" style="shape=datastore;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="265" y="708" width="106" height="132" as="geometry" />
+          <mxGeometry x="265" y="714" width="106" height="132" as="geometry" />
         </mxCell>
         <mxCell id="1iXnK0e6ATahuSkQoJBM-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.553;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="1iXnK0e6ATahuSkQoJBM-66" target="1iXnK0e6ATahuSkQoJBM-45">
           <mxGeometry relative="1" as="geometry" />
