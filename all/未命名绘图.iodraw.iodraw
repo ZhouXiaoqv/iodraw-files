@@ -22,8 +22,8 @@
         <mxCell id="00j_oEEavoclhN_XABbM-4" value="是否是管理员或者动物医师？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="346" y="299" width="166" height="143" as="geometry" />
         </mxCell>
-        <mxCell id="00j_oEEavoclhN_XABbM-6" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="369" y="563.5" width="120" height="60" as="geometry" />
+        <mxCell id="00j_oEEavoclhN_XABbM-6" value="点击动物管理菜单栏" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="369" y="519" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
