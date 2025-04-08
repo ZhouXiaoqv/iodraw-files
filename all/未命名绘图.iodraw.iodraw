@@ -93,7 +93,7 @@
           <mxGeometry x="68" y="475" width="50" height="34" as="geometry" />
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-33" value="是否是系统管理员？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="453.5" width="160" height="77" as="geometry" />
+          <mxGeometry x="145" y="460.25" width="156" height="63.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
