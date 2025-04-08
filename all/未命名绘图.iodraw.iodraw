@@ -35,7 +35,7 @@
           <mxGeometry x="689" y="172.12" width="120" height="39.88" as="geometry" />
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-10" value="是否要对目标用户实施强行退出操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="909" y="152.06" width="80" height="80" as="geometry" />
+          <mxGeometry x="847" y="135.16" width="222" height="112.94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
