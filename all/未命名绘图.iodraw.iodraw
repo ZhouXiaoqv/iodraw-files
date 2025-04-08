@@ -22,7 +22,7 @@
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-4" value="点击系统监控下的在线用户查看在线用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105.5" y="299" width="129" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="6Zi34ks5vTGgtbQFqUTv-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6Zi34ks5vTGgtbQFqUTv-6" value="是否要搜索某一用户？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="398.25" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
