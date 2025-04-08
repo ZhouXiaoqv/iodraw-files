@@ -27,8 +27,14 @@
         <mxCell id="00j_oEEavoclhN_XABbM-4" value="是否是管理员或者动物医师？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="346" y="239" width="166" height="143" as="geometry" />
         </mxCell>
+        <mxCell id="00j_oEEavoclhN_XABbM-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-6" target="00j_oEEavoclhN_XABbM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-6" value="点击动物管理菜单栏" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="369" y="438" width="120" height="60" as="geometry" />
+          <mxGeometry x="369" y="421" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00j_oEEavoclhN_XABbM-9" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="389" y="551" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
