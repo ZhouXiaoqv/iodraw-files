@@ -46,6 +46,9 @@
         <mxCell id="1iXnK0e6ATahuSkQoJBM-38" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="643" y="154" width="133" height="161" as="geometry" />
         </mxCell>
+        <mxCell id="1iXnK0e6ATahuSkQoJBM-41" value="tomcat服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="385" y="691" width="90" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
