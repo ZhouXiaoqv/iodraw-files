@@ -172,8 +172,13 @@
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Zi34ks5vTGgtbQFqUTv-55" target="6Zi34ks5vTGgtbQFqUTv-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6Zi34ks5vTGgtbQFqUTv-59" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6Zi34ks5vTGgtbQFqUTv-58">
+          <mxGeometry x="-0.1304" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-55" value="是否查看日志详情？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="336.25" y="570" width="132.75" height="58" as="geometry" />
+          <mxGeometry x="339.13" y="569" width="132.75" height="58" as="geometry" />
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-57" value="点击操作时间栏列蓝色链接查看" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="348.25" y="666" width="114.5" height="43" as="geometry" />
