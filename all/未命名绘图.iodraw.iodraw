@@ -72,7 +72,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-10" value="是否要对目标用户实施强行退出操作？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="816" y="136.08" width="219" height="84.92" as="geometry" />
+          <mxGeometry x="819.5" y="158.79000000000002" width="219" height="68.92" as="geometry" />
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-12" value="点击强推按钮&lt;div&gt;确认&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1065" y="176" width="120" height="33" as="geometry" />
@@ -84,7 +84,7 @@
           <mxGeometry x="509" y="265" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-27" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="879" y="275" width="100" height="60" as="geometry" />
+          <mxGeometry x="881" y="265" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
