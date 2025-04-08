@@ -27,8 +27,8 @@
         <mxCell id="ke4fgQztsoUOG-Mra472-4" value="校验是否成功" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="118" y="403" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ke4fgQztsoUOG-Mra472-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="98" y="573" width="120" height="60" as="geometry" />
+        <mxCell id="ke4fgQztsoUOG-Mra472-6" value="登陆成功" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="113" y="568" width="90" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
