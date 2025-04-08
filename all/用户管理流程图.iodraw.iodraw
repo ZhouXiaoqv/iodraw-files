@@ -18,11 +18,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-KhlYbotFnmIjvD-hq2u-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KhlYbotFnmIjvD-hq2u-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="231" y="146" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-4" value="是否是管理员？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="156" y="227" width="150" height="84" as="geometry" />
         </mxCell>
@@ -80,7 +75,7 @@
           <mxGeometry x="624" y="534" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-29" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="838" y="103" width="100" height="60" as="geometry" />
+          <mxGeometry x="181" y="376" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KhlYbotFnmIjvD-hq2u-30" target="-KhlYbotFnmIjvD-hq2u-32">
           <mxGeometry relative="1" as="geometry" />
@@ -95,6 +90,9 @@
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-32" value="点击删除" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="873" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KhlYbotFnmIjvD-hq2u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-KhlYbotFnmIjvD-hq2u-4" target="-KhlYbotFnmIjvD-hq2u-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
