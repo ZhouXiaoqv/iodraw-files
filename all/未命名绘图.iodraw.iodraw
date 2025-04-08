@@ -24,6 +24,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="00j_oEEavoclhN_XABbM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="894.1176470588234" y="1041.2352941176473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-4" value="是否是管理员或者动物医师？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="438" y="239" width="166" height="143" as="geometry" />
         </mxCell>
