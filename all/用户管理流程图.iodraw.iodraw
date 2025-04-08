@@ -86,10 +86,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-30" value="是否删除角色？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="942" y="75" width="151" height="103.5" as="geometry" />
+          <mxGeometry x="793" y="385" width="151" height="103.5" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-32" value="点击删除" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="922" y="286" width="120" height="60" as="geometry" />
+          <mxGeometry x="808.5" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
