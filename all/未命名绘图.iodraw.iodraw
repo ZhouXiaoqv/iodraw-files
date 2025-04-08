@@ -59,6 +59,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ke4fgQztsoUOG-Mra472-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="167" y="333" as="sourcePoint" />
+            <mxPoint x="168" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ke4fgQztsoUOG-Mra472-20" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ke4fgQztsoUOG-Mra472-19">
+          <mxGeometry x="0.0667" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
