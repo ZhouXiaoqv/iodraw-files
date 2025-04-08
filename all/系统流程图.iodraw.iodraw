@@ -29,7 +29,7 @@
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_4oigFEWJNO8ayWw1DFl-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="656" as="targetPoint" />
+            <mxPoint x="570" y="664" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-26" value="医师" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_4oigFEWJNO8ayWw1DFl-23" vertex="1" connectable="0">
@@ -91,7 +91,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-29" value="医师操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="517" y="659" width="100" height="33" as="geometry" />
+          <mxGeometry x="520" y="670" width="100" height="33" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_4oigFEWJNO8ayWw1DFl-30" target="_4oigFEWJNO8ayWw1DFl-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
