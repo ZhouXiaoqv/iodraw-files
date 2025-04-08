@@ -33,7 +33,7 @@
         <mxCell id="X2eNoX_vdSSq6KN_XusR-8" value="选择待检测动物（名字）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="298" y="285" width="138" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-10" value="点击上传图片" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="X2eNoX_vdSSq6KN_XusR-10" value="点击上传d&#39;g图片" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="298" y="359" width="138" height="52" as="geometry" />
         </mxCell>
       </root>
