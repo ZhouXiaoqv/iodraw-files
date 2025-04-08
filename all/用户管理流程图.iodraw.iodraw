@@ -21,8 +21,14 @@
         <mxCell id="-KhlYbotFnmIjvD-hq2u-4" value="是否是管理员？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="166" y="78" width="150" height="84" as="geometry" />
         </mxCell>
+        <mxCell id="-KhlYbotFnmIjvD-hq2u-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KhlYbotFnmIjvD-hq2u-6" target="-KhlYbotFnmIjvD-hq2u-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-6" value="打开角色管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="349" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KhlYbotFnmIjvD-hq2u-9" value="是否新增角色？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="515" y="80" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
