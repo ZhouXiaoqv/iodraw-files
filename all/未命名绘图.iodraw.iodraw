@@ -79,11 +79,17 @@
         <mxCell id="00j_oEEavoclhN_XABbM-21" value="点击编辑按钮，修改信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="199" y="715" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="00j_oEEavoclhN_XABbM-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-28" target="00j_oEEavoclhN_XABbM-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-28" value="是否删除宠物信息？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="38" y="870" width="131" height="98" as="geometry" />
+          <mxGeometry x="18" y="865" width="151" height="103" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-19" target="00j_oEEavoclhN_XABbM-28">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="00j_oEEavoclhN_XABbM-34" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="33.5" y="1069.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
