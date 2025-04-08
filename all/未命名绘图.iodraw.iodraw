@@ -30,11 +30,8 @@
         <mxCell id="ke4fgQztsoUOG-Mra472-6" value="登陆成功" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="113" y="355" width="90" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="ke4fgQztsoUOG-Mra472-10" value="邮箱登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="133" width="108" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="ke4fgQztsoUOG-Mra472-11" value="账号登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="117" y="143" width="102" height="35" as="geometry" />
+        <mxCell id="ke4fgQztsoUOG-Mra472-11" value="邮箱登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="133" width="102" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
