@@ -89,7 +89,7 @@
           <mxGeometry x="781" y="186" width="151" height="103.5" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-32" value="点击删除" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="828.5" y="322" width="120" height="60" as="geometry" />
+          <mxGeometry x="796.5" y="326.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
