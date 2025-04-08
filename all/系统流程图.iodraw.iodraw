@@ -66,7 +66,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-28" value="管理员操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="293" y="368" width="100" height="33" as="geometry" />
+          <mxGeometry x="285" y="368" width="100" height="33" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_4oigFEWJNO8ayWw1DFl-29" target="_4oigFEWJNO8ayWw1DFl-47" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -95,10 +95,10 @@
           <mxGeometry x="727" y="656" width="159" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-37" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="239" y="433" width="48" height="90" as="geometry" />
+          <mxGeometry x="230" y="433" width="48" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-40" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;监&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="319" y="433" width="48" height="90" as="geometry" />
+          <mxGeometry x="311" y="433" width="48" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-41" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;审&lt;/div&gt;&lt;div&gt;计&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="388" y="433" width="48" height="90" as="geometry" />
