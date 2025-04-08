@@ -42,19 +42,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-9" value="是否要新增宠物信息？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="546" width="183" height="86" as="geometry" />
+          <mxGeometry x="428" y="527" width="183" height="86" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-11" target="00j_oEEavoclhN_XABbM-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-11" value="点击新增按钮，输入信息" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="369" y="657" width="120" height="60" as="geometry" />
+          <mxGeometry x="459.5" y="654" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-13" target="00j_oEEavoclhN_XABbM-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-13" value="是否要保存信息？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="304.75" y="777" width="248.5" height="56" as="geometry" />
+          <mxGeometry x="395.25" y="775" width="248.5" height="56" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-16" value="点击保存按钮" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="189" y="886" width="120" height="60" as="geometry" />
