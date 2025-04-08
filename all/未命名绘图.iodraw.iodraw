@@ -100,7 +100,7 @@
           <mxGeometry x="30" y="150" width="72" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1iXnK0e6ATahuSkQoJBM-73" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1iXnK0e6ATahuSkQoJBM-65">
-          <mxGeometry x="160" y="39" width="77" height="145" as="geometry" />
+          <mxGeometry x="162" y="41" width="77" height="155" as="geometry" />
         </mxCell>
         <mxCell id="1iXnK0e6ATahuSkQoJBM-66" value="Redis&lt;br&gt;(三级缓存)" style="shape=datastore;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
           <mxGeometry x="265" y="714" width="106" height="132" as="geometry" />
