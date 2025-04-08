@@ -144,10 +144,10 @@
           <mxGeometry x="663" y="253" width="102" height="35" as="geometry" />
         </mxCell>
         <mxCell id="ke4fgQztsoUOG-Mra472-43" value="校验是否成功" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="654.5" y="313" width="119" height="40" as="geometry" />
+          <mxGeometry x="654.5" y="313" width="119" height="31" as="geometry" />
         </mxCell>
         <mxCell id="ke4fgQztsoUOG-Mra472-45" value="登陆成功" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="653.5" y="370" width="120" height="20" as="geometry" />
+          <mxGeometry x="650" y="381" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
