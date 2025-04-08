@@ -42,13 +42,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-11" value="点击新增按钮&lt;div&gt;填入相应信息&lt;/div&gt;&lt;div&gt;确认&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="680" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="105" width="120" height="43" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-14" value="是否修改角色权限？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="846" y="67" width="151" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="-KhlYbotFnmIjvD-hq2u-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KhlYbotFnmIjvD-hq2u-9" target="-KhlYbotFnmIjvD-hq2u-9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
