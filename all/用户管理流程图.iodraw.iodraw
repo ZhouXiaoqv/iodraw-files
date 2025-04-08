@@ -13,11 +13,16 @@
         <mxCell id="-KhlYbotFnmIjvD-hq2u-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KhlYbotFnmIjvD-hq2u-4" target="-KhlYbotFnmIjvD-hq2u-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-KhlYbotFnmIjvD-hq2u-8" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-KhlYbotFnmIjvD-hq2u-7">
+          <mxGeometry x="-0.0435" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-4" value="是否是管理员？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="258.5" y="116" width="150" height="84" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-6" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="273.5" y="292" width="120" height="60" as="geometry" />
+          <mxGeometry x="276" y="243" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
