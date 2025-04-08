@@ -71,8 +71,8 @@
         <mxCell id="X2eNoX_vdSSq6KN_XusR-21" value="点击检测按钮，等待" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="317" y="623" width="100" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-22" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="327" y="727.5" width="80" height="80" as="geometry" />
+        <mxCell id="X2eNoX_vdSSq6KN_XusR-22" value="页面是否成功显示检测后图片？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="296" y="713" width="167" height="121" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
