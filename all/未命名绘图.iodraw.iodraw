@@ -7,7 +7,7 @@
         <mxCell id="1iXnK0e6ATahuSkQoJBM-25" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;align=right;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="128" y="152" width="240" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="1iXnK0e6ATahuSkQoJBM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="1iXnK0e6ATahuSkQoJBM-26">
+        <mxCell id="1iXnK0e6ATahuSkQoJBM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;entryX=0.4;entryY=0.077;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1iXnK0e6ATahuSkQoJBM-26" target="1iXnK0e6ATahuSkQoJBM-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="197" y="462" as="targetPoint" />
           </mxGeometry>
@@ -36,7 +36,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1iXnK0e6ATahuSkQoJBM-36" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="133" y="472" width="449" height="142" as="geometry" />
+          <mxGeometry x="121.5" y="514.5" width="449" height="142" as="geometry" />
         </mxCell>
         <mxCell id="1iXnK0e6ATahuSkQoJBM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="1iXnK0e6ATahuSkQoJBM-38" target="1iXnK0e6ATahuSkQoJBM-25">
           <mxGeometry relative="1" as="geometry" />
