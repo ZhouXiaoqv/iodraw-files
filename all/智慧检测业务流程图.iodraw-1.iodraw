@@ -88,7 +88,7 @@
           <mxGeometry x="225" y="237" width="236" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X2eNoX_vdSSq6KN_XusR-28" value="结束，检测结果自动保存" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="37" y="239.88" width="117" height="60.25" as="geometry" />
+          <mxGeometry x="30" y="231.87" width="117" height="60.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
