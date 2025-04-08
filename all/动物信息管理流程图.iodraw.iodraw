@@ -114,7 +114,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-36" value="是否确认？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="41.86" y="627" width="135.25" height="41" as="geometry" />
+          <mxGeometry x="38.87" y="584" width="135.25" height="41" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-39" value="删除，结束" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="49.49" y="694" width="120" height="31" as="geometry" />
