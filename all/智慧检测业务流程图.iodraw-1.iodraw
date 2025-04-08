@@ -22,11 +22,6 @@
         <mxCell id="X2eNoX_vdSSq6KN_XusR-4" value="点击智慧病灶检测&lt;div&gt;跳转到智慧病灶检测页面&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="305" y="69.5" width="138" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="X2eNoX_vdSSq6KN_XusR-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="368" y="351.0000000000002" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="X2eNoX_vdSSq6KN_XusR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="X2eNoX_vdSSq6KN_XusR-8" target="X2eNoX_vdSSq6KN_XusR-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -34,7 +29,7 @@
           <mxGeometry x="489" y="69.5" width="138" height="52" as="geometry" />
         </mxCell>
         <mxCell id="X2eNoX_vdSSq6KN_XusR-10" value="点击上传待检测影像图片" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="800" y="69.5" width="138" height="52" as="geometry" />
+          <mxGeometry x="658" y="69.5" width="138" height="52" as="geometry" />
         </mxCell>
         <mxCell id="X2eNoX_vdSSq6KN_XusR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="X2eNoX_vdSSq6KN_XusR-13" edge="1">
           <mxGeometry relative="1" as="geometry">
