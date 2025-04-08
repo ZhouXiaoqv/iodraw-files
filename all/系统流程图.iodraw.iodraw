@@ -121,18 +121,6 @@
         <mxCell id="_4oigFEWJNO8ayWw1DFl-54" value="宠&lt;div&gt;物&lt;/div&gt;&lt;div&gt;病&lt;/div&gt;&lt;div&gt;历&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="928" y="433" width="48" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_4oigFEWJNO8ayWw1DFl-81" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_4oigFEWJNO8ayWw1DFl-37" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="251" y="894" as="sourcePoint" />
-            <mxPoint x="371" y="773" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_4oigFEWJNO8ayWw1DFl-82" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_4oigFEWJNO8ayWw1DFl-40" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="892" as="sourcePoint" />
-            <mxPoint x="261" y="846" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-83" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_4oigFEWJNO8ayWw1DFl-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="404" y="893" as="sourcePoint" />
