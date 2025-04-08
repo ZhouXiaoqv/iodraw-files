@@ -54,7 +54,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-13" value="是否要保存信息？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="384.25" y="589" width="248.5" height="33" as="geometry" />
+          <mxGeometry x="384.25" y="561" width="248.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-16" target="00j_oEEavoclhN_XABbM-45">
           <mxGeometry relative="1" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-21" value="点击编辑按钮，修改信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="207" y="587" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="547.5" width="120" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-28" target="00j_oEEavoclhN_XABbM-34">
           <mxGeometry relative="1" as="geometry" />
