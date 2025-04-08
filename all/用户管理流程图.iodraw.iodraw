@@ -35,13 +35,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-KhlYbotFnmIjvD-hq2u-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KhlYbotFnmIjvD-hq2u-9">
+        <mxCell id="-KhlYbotFnmIjvD-hq2u-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KhlYbotFnmIjvD-hq2u-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="364" as="targetPoint" />
+            <mxPoint x="521" y="343" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-9" value="是否新增角色？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="515" y="61" width="133" height="118" as="geometry" />
+          <mxGeometry x="511" y="67.5" width="133" height="118" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KhlYbotFnmIjvD-hq2u-11" target="-KhlYbotFnmIjvD-hq2u-14">
           <mxGeometry relative="1" as="geometry" />
