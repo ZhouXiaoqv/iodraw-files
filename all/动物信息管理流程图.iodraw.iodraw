@@ -60,7 +60,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-16" value="点击保存按钮" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="353" y="886" width="120" height="60" as="geometry" />
+          <mxGeometry x="448.5" y="612" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-19" target="00j_oEEavoclhN_XABbM-21">
           <mxGeometry relative="1" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-21" value="点击编辑按钮，修改信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="230" y="547.5" width="120" height="38.5" as="geometry" />
+          <mxGeometry x="235" y="558.25" width="120" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-28" target="00j_oEEavoclhN_XABbM-34">
           <mxGeometry relative="1" as="geometry" />
