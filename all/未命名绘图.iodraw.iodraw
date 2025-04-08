@@ -36,6 +36,11 @@
         <mxCell id="00j_oEEavoclhN_XABbM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-9" target="00j_oEEavoclhN_XABbM-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="00j_oEEavoclhN_XABbM-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="00j_oEEavoclhN_XABbM-12">
+          <mxGeometry x="0.3455" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-9" value="是否要新增宠物信息？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="546" width="183" height="86" as="geometry" />
         </mxCell>
@@ -45,7 +50,7 @@
         <mxCell id="00j_oEEavoclhN_XABbM-11" value="点击新增按钮，输入信息" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="369" y="657" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="00j_oEEavoclhN_XABbM-13" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="00j_oEEavoclhN_XABbM-13" value="是否要保存信息？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="304.75" y="749" width="248.5" height="56" as="geometry" />
         </mxCell>
       </root>
