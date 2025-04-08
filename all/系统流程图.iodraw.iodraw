@@ -83,6 +83,9 @@
         <mxCell id="fviS7DOczVtVqQ9XxukX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-29" target="_4oigFEWJNO8ayWw1DFl-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fviS7DOczVtVqQ9XxukX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_4oigFEWJNO8ayWw1DFl-29" target="_4oigFEWJNO8ayWw1DFl-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-29" value="医师操作" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="508" y="371" width="100" height="33" as="geometry" />
         </mxCell>
@@ -119,7 +122,7 @@
           <mxGeometry x="534" y="428" width="48" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-50" value="智&lt;div&gt;慧&lt;/div&gt;&lt;div&gt;医&lt;/div&gt;&lt;div&gt;学&lt;/div&gt;&lt;div&gt;诊&lt;/div&gt;&lt;div&gt;断&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="620" y="759" width="48" height="90" as="geometry" />
+          <mxGeometry x="611" y="428" width="48" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_4oigFEWJNO8ayWw1DFl-52" value="智&lt;div&gt;慧&lt;/div&gt;&lt;div&gt;诊&lt;/div&gt;&lt;div&gt;断&lt;/div&gt;&lt;div&gt;体&lt;/div&gt;&lt;div&gt;验&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="684" y="746" width="48" height="90" as="geometry" />
