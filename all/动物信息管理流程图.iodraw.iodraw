@@ -48,13 +48,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-11" value="点击新增按钮，输入信息" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="448.5" y="461" width="120" height="35" as="geometry" />
+          <mxGeometry x="448.5" y="440" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-13" target="00j_oEEavoclhN_XABbM-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-13" value="是否要保存信息？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="384.25" y="561" width="248.5" height="33" as="geometry" />
+          <mxGeometry x="384.25" y="537" width="248.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-16" target="00j_oEEavoclhN_XABbM-45">
           <mxGeometry relative="1" as="geometry" />
