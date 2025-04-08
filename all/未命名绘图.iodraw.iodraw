@@ -68,8 +68,8 @@
         <mxCell id="00j_oEEavoclhN_XABbM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-9" target="00j_oEEavoclhN_XABbM-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="00j_oEEavoclhN_XABbM-21" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="92" y="767" width="120" height="60" as="geometry" />
+        <mxCell id="00j_oEEavoclhN_XABbM-21" value="点击编辑按钮，修改信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="92" y="717" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
