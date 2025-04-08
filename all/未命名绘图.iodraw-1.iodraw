@@ -29,7 +29,7 @@
             <mxPoint x="1056" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cqtaonLfKqtN1UEVWFqQ-42" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cqtaonLfKqtN1UEVWFqQ-41">
+        <mxCell id="cqtaonLfKqtN1UEVWFqQ-42" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cqtaonLfKqtN1UEVWFqQ-41">
           <mxGeometry x="-0.7072" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
@@ -88,7 +88,7 @@
           <mxGeometry x="783" y="428" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="cqtaonLfKqtN1UEVWFqQ-29" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="903" y="876" width="98" height="47" as="geometry" />
+          <mxGeometry x="904" y="488" width="98" height="47" as="geometry" />
         </mxCell>
         <mxCell id="cqtaonLfKqtN1UEVWFqQ-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cqtaonLfKqtN1UEVWFqQ-20" target="cqtaonLfKqtN1UEVWFqQ-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
