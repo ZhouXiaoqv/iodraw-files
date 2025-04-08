@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="57" y="110" width="83" height="38" as="geometry" />
+          <mxGeometry x="48" y="114" width="83" height="38" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KhlYbotFnmIjvD-hq2u-4" target="-KhlYbotFnmIjvD-hq2u-6">
           <mxGeometry relative="1" as="geometry" />
@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-4" value="是否是管理员？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="163" y="87" width="150" height="84" as="geometry" />
+          <mxGeometry x="160" y="91" width="150" height="84" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KhlYbotFnmIjvD-hq2u-6" target="-KhlYbotFnmIjvD-hq2u-9">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-11" value="点击新增按钮&lt;div&gt;填入相应信息&lt;/div&gt;&lt;div&gt;确认&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="680" y="105" width="120" height="43" as="geometry" />
+          <mxGeometry x="689" y="111.5" width="120" height="43" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-14" value="是否修改角色权限？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="608" y="188" width="151" height="103.5" as="geometry" />
