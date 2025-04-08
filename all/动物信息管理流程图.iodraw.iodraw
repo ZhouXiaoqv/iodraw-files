@@ -31,7 +31,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-6" value="点击动物管理菜单栏" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="55" y="314" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="314" width="120" height="43" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-9" target="00j_oEEavoclhN_XABbM-11">
           <mxGeometry relative="1" as="geometry" />
@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-9" value="是否要新增宠物信息？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="428" y="527" width="183" height="86" as="geometry" />
+          <mxGeometry x="417" y="366" width="183" height="51" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-11" target="00j_oEEavoclhN_XABbM-13">
           <mxGeometry relative="1" as="geometry" />
