@@ -16,8 +16,8 @@
         <mxCell id="00j_oEEavoclhN_XABbM-2" value="登录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="379" y="191" width="100" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="00j_oEEavoclhN_XABbM-4" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="389" y="300" width="80" height="80" as="geometry" />
+        <mxCell id="00j_oEEavoclhN_XABbM-4" value="是否是管理员或者动物医师？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="389" y="300" width="153" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
