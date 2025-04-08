@@ -13,8 +13,11 @@
         <mxCell id="1iXnK0e6ATahuSkQoJBM-27" value="Nginx服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="199" y="174" width="85" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1iXnK0e6ATahuSkQoJBM-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="196" y="414" width="40" height="26" as="geometry" />
+        <mxCell id="1iXnK0e6ATahuSkQoJBM-28" value="VUE服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="158" y="265" width="67" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1iXnK0e6ATahuSkQoJBM-29" value="" style="shape=datastore;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="259" y="415" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
