@@ -117,7 +117,10 @@
           <mxGeometry x="721" y="479" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1iXnK0e6ATahuSkQoJBM-76" value="mysql数据库" style="shape=datastore;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="239" y="843" width="236" height="60" as="geometry" />
+          <mxGeometry x="215" y="818" width="266" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1iXnK0e6ATahuSkQoJBM-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.723;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="1iXnK0e6ATahuSkQoJBM-76" target="1iXnK0e6ATahuSkQoJBM-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
