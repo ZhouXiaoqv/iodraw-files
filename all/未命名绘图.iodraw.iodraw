@@ -71,10 +71,10 @@
           <mxGeometry x="69" y="579" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1iXnK0e6ATahuSkQoJBM-49" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="112" y="812" width="82" height="26" as="geometry" />
+          <mxGeometry x="78" y="624" width="82" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1iXnK0e6ATahuSkQoJBM-50" value="深度学习模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="109" y="814" width="90" height="26" as="geometry" />
+          <mxGeometry x="75" y="624" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1iXnK0e6ATahuSkQoJBM-51" value="Flask服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="75" y="593" width="83" height="26" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry x="92.5" y="157" width="72" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1iXnK0e6ATahuSkQoJBM-66" value="Redis&lt;br&gt;(三级缓存)" style="shape=datastore;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="265" y="714" width="106" height="132" as="geometry" />
+          <mxGeometry x="228" y="579" width="106" height="132" as="geometry" />
         </mxCell>
         <mxCell id="1iXnK0e6ATahuSkQoJBM-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.553;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="1iXnK0e6ATahuSkQoJBM-66" target="1iXnK0e6ATahuSkQoJBM-45">
           <mxGeometry relative="1" as="geometry" />
