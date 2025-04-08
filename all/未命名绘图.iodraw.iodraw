@@ -92,8 +92,14 @@
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-32" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="68" y="475" width="50" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="6Zi34ks5vTGgtbQFqUTv-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Zi34ks5vTGgtbQFqUTv-33" target="6Zi34ks5vTGgtbQFqUTv-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-33" value="是否是系统管理员？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="460.25" width="156" height="63.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6Zi34ks5vTGgtbQFqUTv-35" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="183" y="595.5" width="71" height="35.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
