@@ -116,7 +116,10 @@
           <mxGeometry x="359" y="473.5" width="93" height="37" as="geometry" />
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-40" value="是否导出日志？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="538.5" y="452" width="80" height="80" as="geometry" />
+          <mxGeometry x="519" y="452" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6Zi34ks5vTGgtbQFqUTv-42" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="566" width="71" height="35.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
