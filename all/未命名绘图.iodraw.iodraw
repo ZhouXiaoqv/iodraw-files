@@ -22,8 +22,8 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-18" value="后端" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="372" y="125" width="94" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-20" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="569" y="579" width="60" height="60" as="geometry" />
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-20" value="数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="386" y="261" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
