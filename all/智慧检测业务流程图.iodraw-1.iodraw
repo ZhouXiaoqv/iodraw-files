@@ -37,7 +37,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X2eNoX_vdSSq6KN_XusR-10" value="点击上传待检测影像图片" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="367" y="357" width="138" height="52" as="geometry" />
+          <mxGeometry x="298" y="359" width="138" height="52" as="geometry" />
         </mxCell>
         <mxCell id="X2eNoX_vdSSq6KN_XusR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="X2eNoX_vdSSq6KN_XusR-13" edge="1">
           <mxGeometry relative="1" as="geometry">
