@@ -11,7 +11,7 @@
           <mxGeometry x="110" y="173" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-2" value="是否是系统管理员？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="264" width="80" height="36" as="geometry" />
+          <mxGeometry x="90" y="242" width="180" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
