@@ -125,8 +125,8 @@
         <mxCell id="1iXnK0e6ATahuSkQoJBM-82" value="Mysql" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="253" y="826" width="49" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1iXnK0e6ATahuSkQoJBM-83" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="696" y="756" width="56" height="47" as="geometry" />
+        <mxCell id="1iXnK0e6ATahuSkQoJBM-83" value="同步线程" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;strokeColor=#666666;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="416" y="815.5" width="56" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
