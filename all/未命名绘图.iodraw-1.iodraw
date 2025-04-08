@@ -75,6 +75,12 @@
         <mxCell id="cqtaonLfKqtN1UEVWFqQ-29" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="408" y="734" width="98" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="cqtaonLfKqtN1UEVWFqQ-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cqtaonLfKqtN1UEVWFqQ-20" target="cqtaonLfKqtN1UEVWFqQ-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="477" y="518" as="sourcePoint" />
+            <mxPoint x="527" y="468" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
