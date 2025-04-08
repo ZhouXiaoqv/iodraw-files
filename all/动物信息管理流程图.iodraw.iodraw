@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-21" value="点击编辑按钮，修改信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="235" y="558.25" width="120" height="38.5" as="geometry" />
+          <mxGeometry x="245" y="496" width="120" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-28" target="00j_oEEavoclhN_XABbM-34">
           <mxGeometry relative="1" as="geometry" />
