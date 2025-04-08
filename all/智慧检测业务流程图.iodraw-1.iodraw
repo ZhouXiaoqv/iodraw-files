@@ -1,95 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="nMkUceT9tn2H91cINgKe">
-    <mxGraphModel dx="2074" dy="1196" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
+  <diagram id="XAQYBNrDYA3-xZ4BfHKL" name="第 1 页">
+    <mxGraphModel dx="2074" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="X2eNoX_vdSSq6KN_XusR-1" target="X2eNoX_vdSSq6KN_XusR-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="34" y="74" width="64" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="X2eNoX_vdSSq6KN_XusR-2" target="X2eNoX_vdSSq6KN_XusR-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-2" value="登录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="127" y="71.75" width="77" height="28.5" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="X2eNoX_vdSSq6KN_XusR-4" target="X2eNoX_vdSSq6KN_XusR-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-4" value="点击智慧病灶检测&lt;div&gt;跳转到智慧病灶检测页面&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="230" y="60" width="138" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="X2eNoX_vdSSq6KN_XusR-8" target="X2eNoX_vdSSq6KN_XusR-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-8" value="选择待检测动物（名字）" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="393" y="60" width="138" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="QtwOB_w39ri6cn-WA-RK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X2eNoX_vdSSq6KN_XusR-10" target="X2eNoX_vdSSq6KN_XusR-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-10" value="点击上传待检测影像图片" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="551" y="60" width="138" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.43;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="X2eNoX_vdSSq6KN_XusR-13" edge="1" target="X2eNoX_vdSSq6KN_XusR-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="521.166666666667" y="569.6666666666667" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-16" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="X2eNoX_vdSSq6KN_XusR-15" vertex="1" connectable="0">
-          <mxGeometry x="-0.5044" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="X2eNoX_vdSSq6KN_XusR-13" edge="1" target="X2eNoX_vdSSq6KN_XusR-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="367" y="622.1666666666667" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-20" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="X2eNoX_vdSSq6KN_XusR-19" vertex="1" connectable="0">
-          <mxGeometry x="-0.2523" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-13" value="上传是否成功？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="559" y="128" width="122" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-18" value="报告管理员，结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="691" y="175" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="X2eNoX_vdSSq6KN_XusR-21" target="X2eNoX_vdSSq6KN_XusR-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-21" value="点击检测按钮，等待" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="293" y="169" width="100" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="X2eNoX_vdSSq6KN_XusR-22" edge="1" target="X2eNoX_vdSSq6KN_XusR-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="522" y="634.6666666666667" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-25" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="X2eNoX_vdSSq6KN_XusR-24" vertex="1" connectable="0">
-          <mxGeometry x="0.3664" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="X2eNoX_vdSSq6KN_XusR-22" target="X2eNoX_vdSSq6KN_XusR-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-31" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="X2eNoX_vdSSq6KN_XusR-30" vertex="1" connectable="0">
-          <mxGeometry x="-0.3175" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-22" value="页面是否成功显示检测后图片？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="225" y="237" width="236" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="X2eNoX_vdSSq6KN_XusR-28" value="结束，检测结果自动保存" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="30" y="231.87" width="117" height="60.25" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
