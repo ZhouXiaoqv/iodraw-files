@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-4" value="点击系统监控下的在线用户查看在线用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="336" y="172.5" width="129" height="39.5" as="geometry" />
+          <mxGeometry x="317" y="173.5" width="129" height="39.5" as="geometry" />
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Zi34ks5vTGgtbQFqUTv-6" target="6Zi34ks5vTGgtbQFqUTv-8">
           <mxGeometry relative="1" as="geometry" />
@@ -31,13 +31,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-6" value="是否要搜索某一用户？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="171.25" width="172" height="40.75" as="geometry" />
+          <mxGeometry x="473" y="173.5" width="172" height="40.75" as="geometry" />
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Zi34ks5vTGgtbQFqUTv-8" target="6Zi34ks5vTGgtbQFqUTv-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-8" value="点击搜索框输入搜索关键字" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="689" y="172.12" width="120" height="39.88" as="geometry" />
+          <mxGeometry x="674" y="173.12" width="120" height="39.88" as="geometry" />
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Zi34ks5vTGgtbQFqUTv-10" target="6Zi34ks5vTGgtbQFqUTv-12">
           <mxGeometry relative="1" as="geometry" />
