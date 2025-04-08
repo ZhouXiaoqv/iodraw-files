@@ -41,7 +41,7 @@
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Zi34ks5vTGgtbQFqUTv-6" target="6Zi34ks5vTGgtbQFqUTv-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6Zi34ks5vTGgtbQFqUTv-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6Zi34ks5vTGgtbQFqUTv-26">
+        <mxCell id="6Zi34ks5vTGgtbQFqUTv-29" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6Zi34ks5vTGgtbQFqUTv-26">
           <mxGeometry x="-0.1034" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -65,6 +65,11 @@
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6Zi34ks5vTGgtbQFqUTv-10" target="6Zi34ks5vTGgtbQFqUTv-27">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Zi34ks5vTGgtbQFqUTv-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6Zi34ks5vTGgtbQFqUTv-28">
+          <mxGeometry x="-0.6207" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-10" value="是否要对目标用户实施强行退出操作？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="816" y="136.07999999999998" width="219" height="112.84" as="geometry" />
