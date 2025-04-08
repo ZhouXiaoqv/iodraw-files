@@ -114,10 +114,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-36" value="是否确认？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="41.879999999999995" y="758" width="135.25" height="53" as="geometry" />
+          <mxGeometry x="41.87" y="774" width="135.25" height="41" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-39" value="删除，结束" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="31.624999999999996" y="1051" width="120" height="60" as="geometry" />
+          <mxGeometry x="49.5" y="843" width="120" height="31" as="geometry" />
         </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-45" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="627" y="698" width="100" height="60" as="geometry" />
