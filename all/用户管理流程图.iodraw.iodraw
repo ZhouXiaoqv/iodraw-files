@@ -27,8 +27,14 @@
         <mxCell id="-KhlYbotFnmIjvD-hq2u-6" value="打开角色管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="349" y="90" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-KhlYbotFnmIjvD-hq2u-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KhlYbotFnmIjvD-hq2u-9" target="-KhlYbotFnmIjvD-hq2u-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-9" value="是否新增角色？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="515" y="80" width="80" height="80" as="geometry" />
+          <mxGeometry x="515" y="80" width="133" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-KhlYbotFnmIjvD-hq2u-11" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="734.5" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
