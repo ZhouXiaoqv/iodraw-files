@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-18" value="后端" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372" y="125" width="94" height="79" as="geometry" />
+          <mxGeometry x="372" y="125" width="164" height="79" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-20" value="数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="334" width="163" height="106" as="geometry" />
@@ -34,6 +34,12 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-22" value="查询角色以及对应权限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HE9-5B8G5Wjg4UaP9Gyo-21">
           <mxGeometry x="-0.1339" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.957;exitY=0.094;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="513" as="sourcePoint" />
+            <mxPoint x="630" y="463" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
