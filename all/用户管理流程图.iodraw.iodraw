@@ -55,10 +55,15 @@
         <mxCell id="-KhlYbotFnmIjvD-hq2u-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-KhlYbotFnmIjvD-hq2u-14" target="-KhlYbotFnmIjvD-hq2u-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-KhlYbotFnmIjvD-hq2u-28" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-KhlYbotFnmIjvD-hq2u-27">
+          <mxGeometry x="-0.3333" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-14" value="是否修改角色权限？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="608" y="188" width="151" height="103.5" as="geometry" />
         </mxCell>
-        <mxCell id="-KhlYbotFnmIjvD-hq2u-26" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="-KhlYbotFnmIjvD-hq2u-26" value="选择角色&lt;div&gt;选择权限&lt;/div&gt;&lt;div&gt;确认&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="623.5" y="328" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
