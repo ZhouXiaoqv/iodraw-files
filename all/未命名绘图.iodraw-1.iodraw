@@ -33,10 +33,8 @@
         <mxCell id="cqtaonLfKqtN1UEVWFqQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cqtaonLfKqtN1UEVWFqQ-6" target="cqtaonLfKqtN1UEVWFqQ-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cqtaonLfKqtN1UEVWFqQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cqtaonLfKqtN1UEVWFqQ-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="441" y="403" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="cqtaonLfKqtN1UEVWFqQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cqtaonLfKqtN1UEVWFqQ-6" target="cqtaonLfKqtN1UEVWFqQ-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cqtaonLfKqtN1UEVWFqQ-6" value="点击左侧菜单栏下系统管理的用户管理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="290" width="120" height="60" as="geometry" />
@@ -51,7 +49,7 @@
           <mxGeometry x="270" y="428" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="cqtaonLfKqtN1UEVWFqQ-20" value="新增/修改用户信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="396" y="426" width="100" height="35" as="geometry" />
+          <mxGeometry x="391" y="430" width="100" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
