@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X2eNoX_vdSSq6KN_XusR-2" value="登录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="429" y="74" width="100" height="43" as="geometry" />
+          <mxGeometry x="171" y="74" width="100" height="43" as="geometry" />
         </mxCell>
         <mxCell id="X2eNoX_vdSSq6KN_XusR-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="X2eNoX_vdSSq6KN_XusR-4" target="X2eNoX_vdSSq6KN_XusR-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X2eNoX_vdSSq6KN_XusR-4" value="点击智慧病灶检测&lt;div&gt;跳转到智慧病灶检测页面&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="298" y="215" width="138" height="52" as="geometry" />
+          <mxGeometry x="305" y="69.5" width="138" height="52" as="geometry" />
         </mxCell>
         <mxCell id="X2eNoX_vdSSq6KN_XusR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="X2eNoX_vdSSq6KN_XusR-8" edge="1">
           <mxGeometry relative="1" as="geometry">
