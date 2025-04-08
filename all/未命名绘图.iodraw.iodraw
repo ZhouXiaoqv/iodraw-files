@@ -39,8 +39,14 @@
         <mxCell id="00j_oEEavoclhN_XABbM-9" value="是否要新增宠物信息？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="337.5" y="546" width="183" height="86" as="geometry" />
         </mxCell>
+        <mxCell id="00j_oEEavoclhN_XABbM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="00j_oEEavoclhN_XABbM-11" target="00j_oEEavoclhN_XABbM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="00j_oEEavoclhN_XABbM-11" value="点击新增按钮，输入信息" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="369" y="657" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="00j_oEEavoclhN_XABbM-13" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="389" y="742" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
