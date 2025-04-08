@@ -24,6 +24,11 @@
         <mxCell id="1iXnK0e6ATahuSkQoJBM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1iXnK0e6ATahuSkQoJBM-4" target="1iXnK0e6ATahuSkQoJBM-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1iXnK0e6ATahuSkQoJBM-11" value="springmvc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1iXnK0e6ATahuSkQoJBM-9">
+          <mxGeometry x="0.3571" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1iXnK0e6ATahuSkQoJBM-4" value="后端服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="385" width="104" height="104" as="geometry" />
         </mxCell>
