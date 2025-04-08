@@ -72,7 +72,7 @@
           <mxGeometry x="608.5" y="385" width="151" height="103.5" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-26" value="选择角色&lt;div&gt;选择权限&lt;/div&gt;&lt;div&gt;确认&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="624" y="524" width="120" height="60" as="geometry" />
+          <mxGeometry x="624" y="534" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-29" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="852" y="103" width="100" height="60" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="793" y="385" width="151" height="103.5" as="geometry" />
         </mxCell>
         <mxCell id="-KhlYbotFnmIjvD-hq2u-32" value="点击删除" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="864" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="873" y="241" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
