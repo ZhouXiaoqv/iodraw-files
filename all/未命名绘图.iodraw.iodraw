@@ -34,7 +34,7 @@
         <mxCell id="6Zi34ks5vTGgtbQFqUTv-8" value="点击搜索框输入搜索关键字" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="689" y="172.12" width="120" height="39.88" as="geometry" />
         </mxCell>
-        <mxCell id="6Zi34ks5vTGgtbQFqUTv-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6Zi34ks5vTGgtbQFqUTv-10" value="是否要对目标用户实施强行退出操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="909" y="152.06" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
