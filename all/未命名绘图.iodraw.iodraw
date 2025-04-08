@@ -6,15 +6,15 @@
         <mxCell id="1" parent="0" />
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="182" as="targetPoint" />
-            <mxPoint x="120" y="182" as="sourcePoint" />
+            <mxPoint x="226" y="168" as="targetPoint" />
+            <mxPoint x="116" y="168" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-13" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="82" y="112" width="40" height="60" as="geometry" />
+          <mxGeometry x="78" y="131" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-12" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="77" y="146" width="42" height="26" as="geometry" />
+          <mxGeometry x="78" y="161" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
