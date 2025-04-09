@@ -57,10 +57,13 @@
           <mxGeometry x="683" y="181" width="126" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-47" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="961" y="238" width="40" height="60" as="geometry" />
+          <mxGeometry x="955" y="236" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-44" target="HE9-5B8G5Wjg4UaP9Gyo-47">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-49" value="由前端服务渲染好路由表并生成菜单栏渲染成页面展示给用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="707" y="293" width="342" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
