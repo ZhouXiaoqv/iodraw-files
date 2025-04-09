@@ -216,7 +216,7 @@
             <mxPoint x="596" y="1213" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-121" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-121" value="ES" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="628" y="1142" width="112" height="91" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-122" target="HE9-5B8G5Wjg4UaP9Gyo-116">
@@ -232,7 +232,7 @@
           <mxGeometry x="237.5" y="1293" width="118" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-128" value="RestfulAPI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="529" y="1187" width="75" height="26" as="geometry" />
+          <mxGeometry x="523" y="1201" width="75" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
