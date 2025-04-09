@@ -48,7 +48,7 @@
           <mxGeometry x="319" y="210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-9" value="回滚,返回错误,业务结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295.5" y="316" width="127" height="35" as="geometry" />
+          <mxGeometry x="295.5" y="328.5" width="127" height="35" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XlDeTHzeQuF8Fr_R0-Bl-11" target="XlDeTHzeQuF8Fr_R0-Bl-13">
           <mxGeometry relative="1" as="geometry" />
@@ -78,6 +78,19 @@
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XlDeTHzeQuF8Fr_R0-Bl-15" target="XlDeTHzeQuF8Fr_R0-Bl-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-29" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XlDeTHzeQuF8Fr_R0-Bl-18">
+          <mxGeometry x="0.2941" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XlDeTHzeQuF8Fr_R0-Bl-15" target="XlDeTHzeQuF8Fr_R0-Bl-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-30" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XlDeTHzeQuF8Fr_R0-Bl-28">
+          <mxGeometry x="-0.2394" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-15" value="失败?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="306" width="80" height="80" as="geometry" />
         </mxCell>
@@ -88,7 +101,7 @@
           <mxGeometry x="166" y="228.5" width="96" height="43" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-25" value="结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="657" y="227" width="90" height="46" as="geometry" />
+          <mxGeometry x="695" y="227" width="90" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
