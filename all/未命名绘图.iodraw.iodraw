@@ -140,7 +140,7 @@
           <mxGeometry x="702" y="657" width="311" height="106" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="705" y="677" width="231" height="82" as="geometry" />
+          <mxGeometry x="705" y="676" width="293" height="83" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-46" value="jvm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="655" width="37" height="26" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry x="807" y="698" width="62" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="876" y="682" width="56" height="73" as="geometry" />
+          <mxGeometry x="876" y="681" width="98" height="74" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-58" value="spring contaner" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="702" y="681" width="101" height="26" as="geometry" />
