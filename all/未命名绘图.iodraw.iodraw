@@ -46,8 +46,14 @@
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-13" value="投入mq异步重试" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="499" y="414" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XlDeTHzeQuF8Fr_R0-Bl-15" target="XlDeTHzeQuF8Fr_R0-Bl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-15" value="失败?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="719" y="404" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-17" value="标记到数据库,写日志等待人工出" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="859" y="414" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
