@@ -19,6 +19,9 @@
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-3" value="写入es" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="299" y="124" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XlDeTHzeQuF8Fr_R0-Bl-5" target="XlDeTHzeQuF8Fr_R0-Bl-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-5" value="同步写数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="499" y="124" width="120" height="60" as="geometry" />
         </mxCell>
@@ -31,8 +34,14 @@
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-9" value="回滚,返回错误,业务结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="297.5" y="433" width="123" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XlDeTHzeQuF8Fr_R0-Bl-11" target="XlDeTHzeQuF8Fr_R0-Bl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-11" value="写入失败?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="519" y="244" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-13" value="投入mq异步重试" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="499" y="414" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
