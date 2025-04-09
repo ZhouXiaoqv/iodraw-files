@@ -83,6 +83,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="207" y="818" as="sourcePoint" />
             <mxPoint x="423.5" y="752" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="653" y="547" />
+              <mxPoint x="653" y="559" />
+              <mxPoint x="751" y="559" />
+              <mxPoint x="751" y="539" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-63" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HE9-5B8G5Wjg4UaP9Gyo-62">
@@ -130,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-76" value="该用户权限表&lt;div&gt;是否命中缓存?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="542.5" y="518" width="126.5" height="82" as="geometry" />
+          <mxGeometry x="440" y="506" width="126.5" height="82" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-81" target="HE9-5B8G5Wjg4UaP9Gyo-67">
           <mxGeometry relative="1" as="geometry" />
@@ -139,7 +145,7 @@
           <mxGeometry x="546" y="653" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-87" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;查询数据库相应的api权限&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="787" y="484" width="151" height="66" as="geometry" />
+          <mxGeometry x="739" y="473" width="151" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
