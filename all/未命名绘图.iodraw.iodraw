@@ -82,6 +82,9 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-58" value="后端服务器" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="99.5" y="620" width="100" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-61" value="数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="473" y="112" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
