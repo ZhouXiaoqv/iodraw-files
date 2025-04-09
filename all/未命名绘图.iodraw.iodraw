@@ -143,7 +143,7 @@
           <mxGeometry x="705" y="677" width="231" height="82" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-46" value="jvm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="712" y="676" width="37" height="26" as="geometry" />
+          <mxGeometry x="710" y="655" width="37" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-47" value="SpringMVC" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="708" y="712" width="86" height="35" as="geometry" />
@@ -165,6 +165,9 @@
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="885" y="682" width="47" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-58" value="spring contaner" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="596" y="889" width="101" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
