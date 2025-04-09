@@ -32,11 +32,11 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-35" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;携带用户身份信息发送到后端服务器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="216" y="278" width="194" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-36" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-36" value="数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="463" y="102" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-38" value="查询数据库中对应用户的身份，权限信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="408" y="171" width="234" height="26" as="geometry" />
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-38" value="查询数据库中对应用户的身份，权限信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="392" y="181" width="234" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
