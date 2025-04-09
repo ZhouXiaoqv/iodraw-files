@@ -133,7 +133,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-81" value="获取Redis缓存中的权限表数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="443" y="621" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="645" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-87" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;查询数据库相应的api权限&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="514" width="151" height="66" as="geometry" />
