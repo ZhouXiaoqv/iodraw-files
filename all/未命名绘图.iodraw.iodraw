@@ -4,49 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-13" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="78" y="131" width="40" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-12" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="78" y="161" width="42" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="HE9-5B8G5Wjg4UaP9Gyo-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="292" y="164.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="202.69999999999982" y="173.4269999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-18" value="后端" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372" y="125" width="164" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-20" value="数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="372" width="163" height="106" as="geometry" />
-        </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.017;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-18" target="HE9-5B8G5Wjg4UaP9Gyo-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="574" y="634" as="sourcePoint" />
-            <mxPoint x="624" y="584" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-22" value="查询角色以及对应权限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HE9-5B8G5Wjg4UaP9Gyo-21">
-          <mxGeometry x="-0.1339" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.957;exitY=0.094;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-20" target="HE9-5B8G5Wjg4UaP9Gyo-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="513" as="sourcePoint" />
-            <mxPoint x="630" y="463" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-24" value="返回角色对应的路由路径和api权限表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HE9-5B8G5Wjg4UaP9Gyo-23">
-          <mxGeometry x="0.1537" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-26" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="126" y="98" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
