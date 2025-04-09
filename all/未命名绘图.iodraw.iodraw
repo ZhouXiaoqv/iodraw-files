@@ -190,8 +190,13 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-109" value="更新数据库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="497.5" y="965" width="93" height="27.5" as="geometry" />
         </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="267" y="1122.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-111" value="将数据写入缓存" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="225" y="1062.63" width="84" height="34.75" as="geometry" />
+          <mxGeometry x="217" y="1007.5000000000001" width="100" height="34.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
