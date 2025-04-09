@@ -246,10 +246,13 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-131" value="orm框架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="534" y="1330" width="63" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-132" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-132" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-117" target="HE9-5B8G5Wjg4UaP9Gyo-122">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="574" y="1134" as="sourcePoint" />
             <mxPoint x="624" y="1084" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="1194" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
