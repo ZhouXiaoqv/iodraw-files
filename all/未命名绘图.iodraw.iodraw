@@ -219,8 +219,14 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-121" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="557" y="1314" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-122" target="HE9-5B8G5Wjg4UaP9Gyo-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-122" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="126" y="1153" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-124" value="用户检索影像数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="149" y="1218" width="114" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
