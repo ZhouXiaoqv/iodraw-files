@@ -107,7 +107,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-67" value="后端服务对比该请求路径是否在该用户请求表里?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-67" value="后端服务对比&lt;div&gt;该请求路径是否&lt;/div&gt;&lt;div&gt;在该用户请求表里?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="18.75" y="760" width="200.25" height="160" as="geometry" />
         </mxCell>
       </root>
