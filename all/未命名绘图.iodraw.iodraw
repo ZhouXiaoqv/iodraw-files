@@ -178,8 +178,14 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-106" value="更新操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="859" width="68" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-107" target="HE9-5B8G5Wjg4UaP9Gyo-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-107" value="删除缓存" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="484" y="949.5" width="93" height="27.5" as="geometry" />
+          <mxGeometry x="497.5" y="923" width="93" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-109" value="更新数据库" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="976" width="93" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
