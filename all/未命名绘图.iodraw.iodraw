@@ -147,10 +147,15 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-96" target="HE9-5B8G5Wjg4UaP9Gyo-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-100" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HE9-5B8G5Wjg4UaP9Gyo-99">
+          <mxGeometry x="-0.252" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-96" value="是否命中缓存？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="83" y="923" width="106" height="84.5" as="geometry" />
         </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-98" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-98" value="返回缓存数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="76" y="1099.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
