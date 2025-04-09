@@ -79,7 +79,7 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-57" value="请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="103" y="518" width="93" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-58" target="HE9-5B8G5Wjg4UaP9Gyo-61">
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-76" target="HE9-5B8G5Wjg4UaP9Gyo-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-63" value="查询数据库相应的api权限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HE9-5B8G5Wjg4UaP9Gyo-62">
@@ -120,9 +120,6 @@
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-72" value="拦截" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="383" y="1025" width="66.25" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-76" target="HE9-5B8G5Wjg4UaP9Gyo-67">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-76" value="该用户权限表&lt;div&gt;是否命中缓存?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="86" y="777" width="126.5" height="82" as="geometry" />
