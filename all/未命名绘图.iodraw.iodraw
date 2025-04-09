@@ -130,6 +130,12 @@
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-40" value="axios请求模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="352" y="712" width="94" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.87;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XlDeTHzeQuF8Fr_R0-Bl-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="574" y="634" as="sourcePoint" />
+            <mxPoint x="624" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
