@@ -61,6 +61,11 @@
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XlDeTHzeQuF8Fr_R0-Bl-11" target="XlDeTHzeQuF8Fr_R0-Bl-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-27" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XlDeTHzeQuF8Fr_R0-Bl-26">
+          <mxGeometry y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-11" value="写入失败?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="517" y="210" width="80" height="80" as="geometry" />
         </mxCell>
