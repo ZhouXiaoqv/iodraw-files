@@ -87,6 +87,9 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-58" target="HE9-5B8G5Wjg4UaP9Gyo-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-58" value="后端服务器" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="99.5" y="620" width="100" height="80" as="geometry" />
         </mxCell>
@@ -104,8 +107,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-67" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="99.5" y="763" width="100" height="100" as="geometry" />
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-67" value="后端服务对比该请求路径是否在该用户请求表里?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="99.5" y="763" width="163.5" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
