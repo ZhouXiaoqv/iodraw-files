@@ -213,8 +213,11 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-120" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-117">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="574" y="1134" as="sourcePoint" />
-            <mxPoint x="624" y="1084" as="targetPoint" />
+            <mxPoint x="470" y="1204" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-121" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472" y="1174" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
