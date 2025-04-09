@@ -143,13 +143,7 @@
           <mxGeometry x="712" y="676" width="37" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-47" value="SpringMVC" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="708" y="724" width="86" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-50" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.968;exitY=1.192;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.034;entryY=0.816;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XlDeTHzeQuF8Fr_R0-Bl-40" target="XlDeTHzeQuF8Fr_R0-Bl-45">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="574" y="634" as="sourcePoint" />
-            <mxPoint x="624" y="584" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="708" y="712" width="86" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
