@@ -201,6 +201,9 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-115" value="返回缓存数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="214.5" y="1060" width="105" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-116" target="HE9-5B8G5Wjg4UaP9Gyo-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-116" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="1261" width="120" height="60" as="geometry" />
         </mxCell>
@@ -224,6 +227,9 @@
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-124" value="用户检索影像数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="149" y="1218" width="114" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-127" value="前端发起axios请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="1293" width="118" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
