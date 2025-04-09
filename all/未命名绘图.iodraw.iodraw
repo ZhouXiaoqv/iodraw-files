@@ -136,7 +136,7 @@
           <mxGeometry x="427" y="519" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-87" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;查询数据库相应的api权限&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239.75" y="516" width="151" height="66" as="geometry" />
+          <mxGeometry x="237.5" y="513" width="151" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
