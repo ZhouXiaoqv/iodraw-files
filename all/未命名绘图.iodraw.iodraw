@@ -131,13 +131,13 @@
           <mxGeometry x="352" y="712" width="94" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-43" value="" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="687" y="628" width="290" height="142" as="geometry" />
+          <mxGeometry x="687" y="628" width="357" height="142" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-44" value="tomcat服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="702" y="633" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="702" y="659" width="236" height="104" as="geometry" />
+          <mxGeometry x="702" y="657" width="311" height="106" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="677" width="231" height="82" as="geometry" />
