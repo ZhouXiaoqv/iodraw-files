@@ -118,8 +118,8 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-72" value="拦截" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="331" y="940" width="66.25" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-76" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="99.5" y="765" width="100" height="100" as="geometry" />
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-76" value="该用户权限表是否命中缓存" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="99.5" y="765" width="154.5" height="107" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
