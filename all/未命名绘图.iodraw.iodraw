@@ -65,8 +65,8 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-49" value="由前端服务渲染好路由表并生成菜单栏渲染成页面展示给用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="799" y="268" width="342" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-52" value="用户首次发起" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="139" y="498" width="90" height="26" as="geometry" />
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-52" value="用户首次发起api请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="119" y="498" width="130" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
