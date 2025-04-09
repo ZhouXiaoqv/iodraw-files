@@ -41,6 +41,9 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-38" value="查询数据库中对应用户的身份，权限信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="376" y="181" width="234" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-39" target="HE9-5B8G5Wjg4UaP9Gyo-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-39" value="后端服务器" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="702" y="92" width="100" height="80" as="geometry" />
         </mxCell>
@@ -48,7 +51,10 @@
           <mxGeometry x="543" y="102" width="126" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-44" value="前端服务器" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="706" y="226" width="100" height="80" as="geometry" />
+          <mxGeometry x="702" y="226" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-46" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="779" y="173" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
