@@ -255,8 +255,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-133" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="328" y="1139" width="40" height="26" as="geometry" />
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-133" value="聚合后返回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="298" y="1153" width="78" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
