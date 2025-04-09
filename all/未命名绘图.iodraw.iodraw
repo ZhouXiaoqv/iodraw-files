@@ -176,9 +176,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-61" value="mysql" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="844" width="60" height="60" as="geometry" />
+          <mxGeometry x="977" y="844" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XlDeTHzeQuF8Fr_R0-Bl-55" target="XlDeTHzeQuF8Fr_R0-Bl-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="878" y="844" as="sourcePoint" />
             <mxPoint x="928" y="794" as="targetPoint" />
