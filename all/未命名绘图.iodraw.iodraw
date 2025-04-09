@@ -112,6 +112,9 @@
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="211" y="695" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-35" value="vue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="819" width="37" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
