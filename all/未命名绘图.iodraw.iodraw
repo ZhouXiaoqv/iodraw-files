@@ -119,7 +119,7 @@
           <mxGeometry x="217" y="648" width="85" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=10;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="403" y="702" width="39" height="46" as="geometry" />
+          <mxGeometry x="350" y="702" width="92" height="46" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="345" y="641" width="97" height="40" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry x="360.5" y="650" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-40" value="axios请求模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="635" y="715" width="94" height="26" as="geometry" />
+          <mxGeometry x="352" y="715" width="94" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
