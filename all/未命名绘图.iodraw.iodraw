@@ -172,6 +172,9 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-104" value="数据更新时" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="502" y="824" width="78" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-106" value="请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112" y="875" width="68" height="27" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
