@@ -32,7 +32,7 @@
           <mxGeometry x="319" y="210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-9" value="回滚,返回错误,业务结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="299" y="322" width="127" height="35" as="geometry" />
+          <mxGeometry x="295.5" y="316" width="127" height="35" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XlDeTHzeQuF8Fr_R0-Bl-11" target="XlDeTHzeQuF8Fr_R0-Bl-13">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="700" y="306" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-17" value="标记到数据库,写日志等待人工出" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="859" y="414" width="120" height="60" as="geometry" />
+          <mxGeometry x="831" y="316" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
