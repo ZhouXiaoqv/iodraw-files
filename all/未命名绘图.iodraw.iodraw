@@ -169,6 +169,12 @@
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-54" value="mybatues-plus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="878" y="702" width="96" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.267;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XlDeTHzeQuF8Fr_R0-Bl-55" target="XlDeTHzeQuF8Fr_R0-Bl-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="574" y="634" as="sourcePoint" />
+            <mxPoint x="624" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
