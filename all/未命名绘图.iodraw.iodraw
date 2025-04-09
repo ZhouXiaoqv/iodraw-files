@@ -104,13 +104,8 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-67" value="后端服务对比&lt;div&gt;该请求路径是否&lt;/div&gt;&lt;div&gt;在该用户请求表里?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="610" y="552" width="200.25" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HE9-5B8G5Wjg4UaP9Gyo-69">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="743" y="732" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-69" value="放行" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="676" y="741" width="89.5" height="25" as="geometry" />
+          <mxGeometry x="669" y="701" width="89.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-72" value="拦截" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="865" y="599" width="66.25" height="24" as="geometry" />
@@ -142,6 +137,9 @@
         </mxCell>
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-87" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;查询数据库相应的api权限&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="237.5" y="513" width="151" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102" y="865" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
