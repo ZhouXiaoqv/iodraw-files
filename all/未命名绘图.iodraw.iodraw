@@ -68,9 +68,6 @@
         <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-50" value="请求" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="218" y="421" width="77" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="HE9-5B8G5Wjg4UaP9Gyo-51" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="574" y="559" width="50" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
