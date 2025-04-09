@@ -140,7 +140,10 @@
           <mxGeometry x="680" y="634" width="274" height="136" as="geometry" />
         </mxCell>
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-44" value="tomcat服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="544" y="909" width="90" height="26" as="geometry" />
+          <mxGeometry x="702" y="644" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="539" y="579" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
