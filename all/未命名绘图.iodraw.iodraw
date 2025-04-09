@@ -28,7 +28,7 @@
         <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-7" value="写入失败?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="319" y="254" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XlDeTHzeQuF8Fr_R0-Bl-9" value="回滚,返回错误,业务结束" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="299" y="424" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
