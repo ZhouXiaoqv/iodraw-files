@@ -44,7 +44,10 @@
           <mxGeometry x="474" y="82" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dHZNTenDHR6L3jDdTHC7-15" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;BCryptPasswordEncoder&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="171" width="212" height="60" as="geometry" />
+          <mxGeometry x="428" y="171" width="212" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dHZNTenDHR6L3jDdTHC7-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="543" y="135" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
