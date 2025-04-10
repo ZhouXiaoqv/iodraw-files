@@ -11,9 +11,9 @@
           <mxGeometry x="405" y="492" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-5" value="菜单（权限）" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="475" y="677" width="100" height="40" as="geometry" />
+          <mxGeometry x="474" y="614" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rwJxmzbrDSwTwIuPjQHL-6" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="rwJxmzbrDSwTwIuPjQHL-6" value="角色" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="652" y="790" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
