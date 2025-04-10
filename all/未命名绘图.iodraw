@@ -100,8 +100,8 @@
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-37" value="宠物病历关系" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="875" y="449" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rwJxmzbrDSwTwIuPjQHL-38" value="宠物病历关系" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="489" y="317" width="120" height="60" as="geometry" />
+        <mxCell id="rwJxmzbrDSwTwIuPjQHL-38" value="宠物主人关系" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="344" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
