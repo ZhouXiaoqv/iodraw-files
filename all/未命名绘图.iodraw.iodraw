@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-1" value="前端请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="127.11999999999999" y="75" width="107.75" height="44" as="geometry" />
+          <mxGeometry x="127.13" y="90" width="107.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmLWAxNK5r9rThVwuFlv-5" target="nmLWAxNK5r9rThVwuFlv-16">
           <mxGeometry relative="1" as="geometry" />
@@ -28,13 +28,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-15" value="前端请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="127.11999999999999" y="410" width="107.75" height="44" as="geometry" />
+          <mxGeometry x="127.11999999999999" y="358" width="107.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmLWAxNK5r9rThVwuFlv-16" target="nmLWAxNK5r9rThVwuFlv-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-16" value="前端请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="127.13" y="303" width="107.75" height="44" as="geometry" />
+          <mxGeometry x="127.11999999999999" y="281" width="107.75" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
