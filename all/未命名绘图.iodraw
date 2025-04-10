@@ -89,13 +89,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-35" value="病历" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1018" y="575" width="100" height="40" as="geometry" />
+          <mxGeometry x="780" y="407" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-36" value="宠物（患者）" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="765" y="595" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-37" value="宠物病历关系" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="875" y="449" width="120" height="60" as="geometry" />
+          <mxGeometry x="752" y="492" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-38" value="宠物主人关系" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="585" y="589" width="120" height="60" as="geometry" />
