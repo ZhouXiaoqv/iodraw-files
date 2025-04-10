@@ -11,7 +11,7 @@
           <mxGeometry x="145" y="85" width="79" height="32" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-5" value="Spring Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="125" y="166" width="119" height="128" as="geometry" />
+          <mxGeometry x="125" y="166" width="116" height="87" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-7" value="Servlet Container" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="nmLWAxNK5r9rThVwuFlv-5">
           <mxGeometry x="9" y="30" width="80" height="40" as="geometry" />
