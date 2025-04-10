@@ -16,14 +16,6 @@
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-6" value="角色" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="405" y="663" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rwJxmzbrDSwTwIuPjQHL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rwJxmzbrDSwTwIuPjQHL-7" target="rwJxmzbrDSwTwIuPjQHL-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rwJxmzbrDSwTwIuPjQHL-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rwJxmzbrDSwTwIuPjQHL-10">
-          <mxGeometry x="-0.1765" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-7" value="角色菜单关系" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="562" y="482" width="120" height="60" as="geometry" />
         </mxCell>
@@ -36,6 +28,12 @@
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-9" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rwJxmzbrDSwTwIuPjQHL-8">
           <mxGeometry x="0.0175" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rwJxmzbrDSwTwIuPjQHL-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.467;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rwJxmzbrDSwTwIuPjQHL-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="634" y="599" as="sourcePoint" />
+            <mxPoint x="794" y="599" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
