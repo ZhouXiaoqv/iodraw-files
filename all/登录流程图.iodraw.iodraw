@@ -31,11 +31,11 @@
         <mxCell id="ss9O64SNKwEXyD-HGyHU-10" value="存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="302" y="158" width="42" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ss9O64SNKwEXyD-HGyHU-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-11" value="初始化分片上传" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="447" y="191" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ss9O64SNKwEXyD-HGyHU-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="369" y="227" width="40" height="26" as="geometry" />
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-13" value="其他" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="386" y="225" width="42" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
