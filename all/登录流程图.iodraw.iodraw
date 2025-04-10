@@ -132,6 +132,12 @@
         <mxCell id="ss9O64SNKwEXyD-HGyHU-42" value="上传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="142" y="477" width="42" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-43" value="上传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="214" y="526" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-44" value="HTTP调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="318" y="491" width="73" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
