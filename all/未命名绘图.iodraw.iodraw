@@ -29,13 +29,17 @@
             <mxPoint x="214" y="216" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nmLWAxNK5r9rThVwuFlv-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmLWAxNK5r9rThVwuFlv-12">
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="181" y="355" as="sourcePoint" />
             <mxPoint x="181" y="396" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nmLWAxNK5r9rThVwuFlv-12" value="业务代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="121" y="295" width="120" height="60" as="geometry" />
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-15" value="前端请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127.11999999999999" y="393" width="107.75" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-16" value="前端请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149.13" y="96" width="107.75" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
