@@ -10,6 +10,9 @@
         <mxCell id="dHZNTenDHR6L3jDdTHC7-1" value="前端表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="74" y="83" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dHZNTenDHR6L3jDdTHC7-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dHZNTenDHR6L3jDdTHC7-3" target="dHZNTenDHR6L3jDdTHC7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dHZNTenDHR6L3jDdTHC7-3" value="Pinia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="74" y="171" width="120" height="60" as="geometry" />
         </mxCell>
@@ -17,7 +20,10 @@
           <mxGeometry x="129" y="142" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dHZNTenDHR6L3jDdTHC7-6" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start; text-wrap: wrap;&quot;&gt;accountLogin()&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="68" y="319" width="132" height="31" as="geometry" />
+          <mxGeometry x="68" y="202" width="132" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="dHZNTenDHR6L3jDdTHC7-7" value="Pinia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="171" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
