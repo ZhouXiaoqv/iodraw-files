@@ -52,19 +52,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-28" value="java业务对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="127.13" y="619" width="107.75" height="44" as="geometry" />
+          <mxGeometry x="394" y="495" width="107.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmLWAxNK5r9rThVwuFlv-30" target="nmLWAxNK5r9rThVwuFlv-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-30" value="spring代理对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="127.13000000000001" y="681" width="107.75" height="44" as="geometry" />
+          <mxGeometry x="521" y="495" width="107.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmLWAxNK5r9rThVwuFlv-32" target="nmLWAxNK5r9rThVwuFlv-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-32" value="代理对象执行aop的环绕方法,记录日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="127.13000000000001" y="745" width="107.75" height="44" as="geometry" />
+          <mxGeometry x="645" y="495" width="107.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-38" value="执行原有逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127.13" y="814" width="107.75" height="44" as="geometry" />
