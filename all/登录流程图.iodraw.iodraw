@@ -74,7 +74,10 @@
           <mxGeometry x="402" y="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ss9O64SNKwEXyD-HGyHU-25" value="返回分页结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="602" y="325" width="120" height="60" as="geometry" />
+          <mxGeometry x="567" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="521" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
