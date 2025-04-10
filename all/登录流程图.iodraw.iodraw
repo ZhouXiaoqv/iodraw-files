@@ -10,8 +10,14 @@
         <mxCell id="ss9O64SNKwEXyD-HGyHU-3" value="开始上传流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="97" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ss9O64SNKwEXyD-HGyHU-4" target="ss9O64SNKwEXyD-HGyHU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ss9O64SNKwEXyD-HGyHU-4" value="前端计算文件md" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="97" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479" y="97" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
