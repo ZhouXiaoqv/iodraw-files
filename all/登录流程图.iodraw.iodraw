@@ -147,8 +147,14 @@
         <mxCell id="ss9O64SNKwEXyD-HGyHU-46" value="请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="786" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ss9O64SNKwEXyD-HGyHU-47" target="ss9O64SNKwEXyD-HGyHU-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ss9O64SNKwEXyD-HGyHU-47" value="后端请求处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="786" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-49" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="776" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
