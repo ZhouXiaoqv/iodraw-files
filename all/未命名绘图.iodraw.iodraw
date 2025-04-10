@@ -69,8 +69,14 @@
         <mxCell id="nmLWAxNK5r9rThVwuFlv-38" value="执行原有逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="786" y="491" width="107.75" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmLWAxNK5r9rThVwuFlv-41" target="nmLWAxNK5r9rThVwuFlv-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-41" value="数据库数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127.11999999999999" y="658" width="107.75" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-42" value="数据库数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314.87" y="658" width="107.75" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
