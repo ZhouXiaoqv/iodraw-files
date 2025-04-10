@@ -19,6 +19,9 @@
         <mxCell id="ss9O64SNKwEXyD-HGyHU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ss9O64SNKwEXyD-HGyHU-6" target="ss9O64SNKwEXyD-HGyHU-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ss9O64SNKwEXyD-HGyHU-6" target="ss9O64SNKwEXyD-HGyHU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ss9O64SNKwEXyD-HGyHU-6" value="查询服务器状态&lt;div&gt;（存在/部分/无）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="191" width="120" height="60" as="geometry" />
         </mxCell>
@@ -27,6 +30,12 @@
         </mxCell>
         <mxCell id="ss9O64SNKwEXyD-HGyHU-10" value="存在" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="302" y="158" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="447" y="191" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="369" y="227" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
