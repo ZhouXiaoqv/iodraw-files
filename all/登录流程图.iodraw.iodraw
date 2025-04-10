@@ -76,8 +76,20 @@
         <mxCell id="dHZNTenDHR6L3jDdTHC7-24" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#404040&quot;&gt;&lt;span style=&quot;font-size: 16.002px;&quot;&gt;后续请求带上JWT令牌&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="865" y="176" width="276" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dHZNTenDHR6L3jDdTHC7-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dHZNTenDHR6L3jDdTHC7-26" target="dHZNTenDHR6L3jDdTHC7-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dHZNTenDHR6L3jDdTHC7-26" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#404040&quot;&gt;&lt;span style=&quot;font-size: 16.002px;&quot;&gt;路由守卫&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="865" y="262" width="276" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dHZNTenDHR6L3jDdTHC7-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dHZNTenDHR6L3jDdTHC7-28" target="dHZNTenDHR6L3jDdTHC7-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dHZNTenDHR6L3jDdTHC7-28" value="成功?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="607" y="252" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dHZNTenDHR6L3jDdTHC7-30" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="427" y="262" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
