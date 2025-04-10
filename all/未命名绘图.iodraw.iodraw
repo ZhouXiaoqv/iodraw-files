@@ -36,8 +36,20 @@
         <mxCell id="nmLWAxNK5r9rThVwuFlv-16" value="前端请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127.11999999999999" y="281" width="107.75" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmLWAxNK5r9rThVwuFlv-21" target="nmLWAxNK5r9rThVwuFlv-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-21" value="前端请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127.13" y="476" width="107.75" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmLWAxNK5r9rThVwuFlv-26" target="nmLWAxNK5r9rThVwuFlv-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-26" value="java业务对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127.13" y="600" width="107.75" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-28" value="java业务对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127.13" y="724" width="107.75" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
