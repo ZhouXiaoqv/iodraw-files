@@ -89,10 +89,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-35" value="病历" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="739" y="527" width="100" height="40" as="geometry" />
+          <mxGeometry x="1018" y="575" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-36" value="宠物（患者）" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="637" y="483" width="100" height="40" as="geometry" />
+          <mxGeometry x="765" y="595" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-37" value="宠物病历关系" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="875" y="449" width="120" height="60" as="geometry" />
@@ -109,6 +109,12 @@
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-45" value="1:N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rwJxmzbrDSwTwIuPjQHL-44">
           <mxGeometry x="0.0413" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rwJxmzbrDSwTwIuPjQHL-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rwJxmzbrDSwTwIuPjQHL-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="754" y="571" as="sourcePoint" />
+            <mxPoint x="804" y="521" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
