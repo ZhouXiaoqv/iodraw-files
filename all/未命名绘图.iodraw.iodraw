@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-1" value="前端请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="134.25" y="75" width="97.5" height="44" as="geometry" />
+          <mxGeometry x="124" y="75" width="107.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmLWAxNK5r9rThVwuFlv-5">
           <mxGeometry relative="1" as="geometry">
@@ -35,7 +35,7 @@
         <mxCell id="nmLWAxNK5r9rThVwuFlv-12" value="业务代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="121" y="295" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nmLWAxNK5r9rThVwuFlv-13" value="业务代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-13" value="结束返回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="116" y="396" width="130" height="38" as="geometry" />
         </mxCell>
       </root>
