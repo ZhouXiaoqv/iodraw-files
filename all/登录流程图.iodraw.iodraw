@@ -76,7 +76,10 @@
         <mxCell id="ss9O64SNKwEXyD-HGyHU-25" value="返回分页结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="567" y="325" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ss9O64SNKwEXyD-HGyHU-27" value="vue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ss9O64SNKwEXyD-HGyHU-27" target="ss9O64SNKwEXyD-HGyHU-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-27" value="vue服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="521" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ss9O64SNKwEXyD-HGyHU-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ss9O64SNKwEXyD-HGyHU-28" target="ss9O64SNKwEXyD-HGyHU-27">
@@ -84,6 +87,9 @@
         </mxCell>
         <mxCell id="ss9O64SNKwEXyD-HGyHU-28" value="影像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="420" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-30" value="vue服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="521" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
