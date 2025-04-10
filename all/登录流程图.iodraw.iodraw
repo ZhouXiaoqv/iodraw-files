@@ -14,10 +14,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ss9O64SNKwEXyD-HGyHU-4" value="前端计算文件md" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="279" y="97" width="120" height="60" as="geometry" />
+          <mxGeometry x="79" y="191" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ss9O64SNKwEXyD-HGyHU-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="479" y="97" width="120" height="60" as="geometry" />
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-6" value="查询服务器状态&lt;div&gt;（存在/部分/无）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247" y="191" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
