@@ -73,7 +73,7 @@
         <mxCell id="ss9O64SNKwEXyD-HGyHU-23" value="结果智能高光" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="402" y="325" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ss9O64SNKwEXyD-HGyHU-25" value="结果智能高光" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-25" value="返回分页结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="602" y="325" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
