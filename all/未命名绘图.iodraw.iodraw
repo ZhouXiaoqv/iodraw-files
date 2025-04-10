@@ -8,12 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-1" value="前端请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="129.13" y="76" width="107.75" height="44" as="geometry" />
+          <mxGeometry x="127.11999999999999" y="75" width="107.75" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="nmLWAxNK5r9rThVwuFlv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmLWAxNK5r9rThVwuFlv-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="183" y="291" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmLWAxNK5r9rThVwuFlv-5" target="nmLWAxNK5r9rThVwuFlv-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-5" value="Spring Container" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="121" y="166" width="120" height="87" as="geometry" />
@@ -39,7 +37,7 @@
           <mxGeometry x="127.11999999999999" y="393" width="107.75" height="44" as="geometry" />
         </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-16" value="前端请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="129.13" y="290" width="107.75" height="44" as="geometry" />
+          <mxGeometry x="131" y="311" width="107.75" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
