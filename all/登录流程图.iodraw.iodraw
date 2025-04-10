@@ -88,11 +88,11 @@
         <mxCell id="dHZNTenDHR6L3jDdTHC7-28" value="成功?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="607" y="252" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dHZNTenDHR6L3jDdTHC7-30" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dHZNTenDHR6L3jDdTHC7-30" value="跳zh" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="427" y="262" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dHZNTenDHR6L3jDdTHC7-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="263" width="40" height="26" as="geometry" />
+        <mxCell id="dHZNTenDHR6L3jDdTHC7-32" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="263" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
