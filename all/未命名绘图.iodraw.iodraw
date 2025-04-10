@@ -48,8 +48,14 @@
         <mxCell id="nmLWAxNK5r9rThVwuFlv-26" value="java业务对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="127.13" y="555" width="107.75" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmLWAxNK5r9rThVwuFlv-28" target="nmLWAxNK5r9rThVwuFlv-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-28" value="java业务对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="127.13" y="724" width="107.75" height="44" as="geometry" />
+          <mxGeometry x="127.11999999999999" y="634" width="107.75" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-30" value="spring代理对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="127.12" y="717" width="107.75" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
