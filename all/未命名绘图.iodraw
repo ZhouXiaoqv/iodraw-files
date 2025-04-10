@@ -11,7 +11,7 @@
           <mxGeometry x="405" y="492" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-6" value="角色" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="853" y="489" width="100" height="40" as="geometry" />
+          <mxGeometry x="405" y="674" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-7" value="角色菜单关系" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="600" y="482" width="120" height="60" as="geometry" />
@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rwJxmzbrDSwTwIuPjQHL-18" value="菜单（权限）" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="389" y="685" width="100" height="40" as="geometry" />
+          <mxGeometry x="777" y="492" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
