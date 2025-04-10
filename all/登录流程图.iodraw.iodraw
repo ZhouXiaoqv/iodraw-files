@@ -37,8 +37,14 @@
         <mxCell id="dHZNTenDHR6L3jDdTHC7-12" value="axios" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="211" y="205" width="46" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="dHZNTenDHR6L3jDdTHC7-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dHZNTenDHR6L3jDdTHC7-13" target="dHZNTenDHR6L3jDdTHC7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dHZNTenDHR6L3jDdTHC7-13" value="查询数据库记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="82" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dHZNTenDHR6L3jDdTHC7-15" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: start;&quot;&gt;BCryptPasswordEncoder&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="171" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
