@@ -141,6 +141,9 @@
         <mxCell id="ss9O64SNKwEXyD-HGyHU-45" value="HTTP响应" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="559" width="73" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="786" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
