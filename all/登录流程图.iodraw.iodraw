@@ -40,8 +40,14 @@
         <mxCell id="ss9O64SNKwEXyD-HGyHU-13" value="其他" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="386" y="225" width="42" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ss9O64SNKwEXyD-HGyHU-14" target="ss9O64SNKwEXyD-HGyHU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ss9O64SNKwEXyD-HGyHU-14" value="并行上传分片数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="447" y="97" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ss9O64SNKwEXyD-HGyHU-16" value="合并所有分片" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="647" y="97" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
