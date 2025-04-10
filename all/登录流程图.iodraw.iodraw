@@ -115,7 +115,7 @@
         <mxCell id="dHZNTenDHR6L3jDdTHC7-37" value="向短信服务商发起调用来获取验证码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="274" y="579" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dHZNTenDHR6L3jDdTHC7-39" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dHZNTenDHR6L3jDdTHC7-39" value="验证码存入" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="474" y="579" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
