@@ -29,8 +29,14 @@
             <mxPoint x="214" y="216" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nmLWAxNK5r9rThVwuFlv-12" target="nmLWAxNK5r9rThVwuFlv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nmLWAxNK5r9rThVwuFlv-12" value="业务代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="121" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nmLWAxNK5r9rThVwuFlv-13" value="业务代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="116" y="396" width="130" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
